@@ -1,0 +1,884 @@
+,tp,dttm,blocknumber,streetname,ReasonForStop,fulladdress,lat,lon
+0,useOfForce,2015-01-01 12:46:00,,69th Ave & Outlook Ave,Dispatched Call,69th Ave & Outlook Ave,37.7722431,-122.1730867
+1,useOfForce,2015-01-04 13:52:00,3000,E 19th St,On View,3000 E 19th St,37.7834515,-122.2243086
+2,useOfForce,2015-01-04 22:10:00,2700,25th Ave,Dispatched Call,2700 25th Ave,37.7923842,-122.2237965
+3,useOfForce,2015-01-04 22:10:00,2700,25th Ave,Dispatched Call,2700 25th Ave,37.7923842,-122.2237965
+4,useOfForce,2015-01-05 2:41:00,,55th Ave & Fleming St,On View,55th Ave & Fleming St,37.7752484,-122.1920728
+5,useOfForce,2015-01-05 2:41:00,,55th Ave & Fleming St,On View,55th Ave & Fleming St,37.7752484,-122.1920728
+6,useOfForce,2015-01-05 15:16:00,2300,73rd Ave,Dispatched Call,2300 73rd Ave,37.7641697,-122.178936
+7,useOfForce,2015-01-05 15:16:00,2300,73rd Ave,Dispatched Call,2300 73rd Ave,37.7641697,-122.178936
+8,useOfForce,2015-01-05 17:04:00,9100,Edes Ave,Dispatched Call,9100 Edes Ave,37.7391652,-122.1898615
+9,useOfForce,2015-01-05 17:04:00,9100,Edes Ave,Dispatched Call,9100 Edes Ave,37.7391652,-122.1898615
+10,useOfForce,2015-01-05 17:04:00,9100,Edes Ave,Dispatched Call,9100 Edes Ave,37.7391652,-122.1898615
+11,useOfForce,2015-01-06 8:20:00,2900,Capp St,On View,2900 Capp St,37.7928422,-122.2167661
+12,useOfForce,2015-01-06 10:30:00,1400,47th Ave,Dispatched Call,1400 47th Ave,37.7705024,-122.210775
+13,useOfForce,2015-01-06 13:20:00,3200,San Pablo Ave,On View,3200 San Pablo Ave,37.8239227,-122.2778079
+14,useOfForce,2015-01-06 13:20:00,3200,San Pablo Ave,On View,3200 San Pablo Ave,37.8239227,-122.2778079
+15,useOfForce,2015-01-07 8:11:00,5800,Telegraph Ave,On View,5800 Telegraph Ave,37.844302,-122.2613327
+16,useOfForce,2015-01-07 8:11:00,5800,Telegraph Ave,On View,5800 Telegraph Ave,37.844302,-122.2613327
+17,useOfForce,2015-01-07 12:50:00,1500,7th St,"Special Project (e.g., 647b)",1500 7th St,37.8057707,-122.295762
+18,useOfForce,2015-01-07 17:10:00,6400,MacArthur Blvd,On View,6400 MacArthur Blvd,37.7740365,-122.1792793
+19,useOfForce,2015-01-08 19:35:00,1200,Franklin St,Citizen Flag Down,1200 Franklin St,37.8024773,-122.2708269
+20,useOfForce,2015-01-08 19:40:00,1200,"Trestle Glen Rd, Oakland CA",Dispatched Call,"1200 Trestle Glen Rd, Oakland CA",37.8073864,-122.2307998
+21,useOfForce,2015-01-08 19:40:00,1200,"Trestle Glen Rd, Oakland CA",Dispatched Call,"1200 Trestle Glen Rd, Oakland CA",37.8073864,-122.2307998
+22,useOfForce,2015-01-08 19:40:00,1200,"Trestle Glen Rd, Oakland CA",Dispatched Call,"1200 Trestle Glen Rd, Oakland CA",37.8073864,-122.2307998
+23,useOfForce,2015-01-09 14:17:00,7000,Lacey St,"Special Project (e.g., 647b)",7000 Lacey St,37.7712843,-122.1728754
+24,useOfForce,2015-01-09 23:13:00,,88th Ave & Birch St,On View,88th Ave & Birch St,37.7533906,-122.1703605
+25,useOfForce,2015-01-09 23:13:00,,88th Ave & Birch St,On View,88th Ave & Birch St,37.7533906,-122.1703605
+26,useOfForce,2015-01-10 18:20:00,4200,Suter St,Dispatched Call,4200 Suter St,37.7870291,-122.1998132
+27,useOfForce,2015-01-10 18:20:00,4200,Suter St,Dispatched Call,4200 Suter St,37.7870291,-122.1998132
+28,useOfForce,2015-01-10 18:20:00,4200,Suter St,Dispatched Call,4200 Suter St,37.7870291,-122.1998132
+29,useOfForce,2015-01-11 0:50:00,4400,E 12th St,Dispatched Call,4400 E 12th St,37.7711473,-122.2148557
+30,useOfForce,2015-01-11 0:50:00,4400,E 12th St,Dispatched Call,4400 E 12th St,37.7711473,-122.2148557
+31,useOfForce,2015-01-11 0:50:00,4400,E 12th St,Dispatched Call,4400 E 12th St,37.7711473,-122.2148557
+32,useOfForce,2015-01-11 0:50:00,4400,E 12th St,Dispatched Call,4400 E 12th St,37.7711473,-122.2148557
+33,useOfForce,2015-01-11 0:50:00,4400,E 12th St,Dispatched Call,4400 E 12th St,37.7711473,-122.2148557
+34,useOfForce,2015-01-13 13:34:00,1100,29th Ave,Dispatched Call,1100 29th Ave,37.7774663,-122.2308013
+35,useOfForce,2015-01-13 13:34:00,1100,29th Ave,Dispatched Call,1100 29th Ave,37.7774663,-122.2308013
+36,useOfForce,2015-01-13 21:18:00,2200,Broadway,On View,2200 Broadway,37.8109785,-122.2665593
+37,useOfForce,2015-01-13 21:18:00,2200,Broadway,On View,2200 Broadway,37.8109785,-122.2665593
+38,useOfForce,2015-01-13 21:18:00,2200,Broadway,On View,2200 Broadway,37.8109785,-122.2665593
+39,useOfForce,2015-01-13 22:30:00,9800,Stanley Ave,On View,9800 Stanley Ave,37.7523008,-122.1534044
+40,useOfForce,2015-01-14 0:39:00,3000,Louise St,On View,3000 Louise St,37.8233277,-122.2844329
+41,useOfForce,2015-01-14 0:39:00,3000,Louise St,On View,3000 Louise St,37.8233277,-122.2844329
+42,useOfForce,2015-01-14 0:39:00,3000,Louise St,On View,3000 Louise St,37.8233277,-122.2844329
+43,useOfForce,2015-01-14 10:51:00,,105th Ave & Creekside Ct,Dispatched Call,105th Ave & Creekside Ct,37.7273622,-122.1816167
+44,useOfForce,2015-01-14 15:00:00,800,Mead Ave,"Drug Related (e.g., Surveillance)",800 Mead Ave,37.8164413,-122.2752727
+45,useOfForce,2015-01-14 15:00:00,800,Mead Ave,"Drug Related (e.g., Surveillance)",800 Mead Ave,37.8164413,-122.2752727
+46,useOfForce,2015-01-14 15:00:00,800,Mead Ave,"Drug Related (e.g., Surveillance)",800 Mead Ave,37.8164413,-122.2752727
+47,useOfForce,2015-01-15 12:20:00,2700,Alvingroom Ct,Dispatched Call,2700 Alvingroom Ct,37.7609648,-122.1613396
+48,useOfForce,2015-01-15 19:51:00,1800,26th Ave,On View,1800 26th Ave,37.7843169,-122.228844
+49,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+50,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+51,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+52,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+53,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+54,useOfForce,2015-01-16 22:21:00,5400,Bancroft Ave,"Special Project (e.g., 647b)",5400 Bancroft Ave,37.7720246,-122.2006248
+55,useOfForce,2015-01-17 19:05:00,3100,Filbert St,Dispatched Call,3100 Filbert St,37.8219389,-122.2780095
+56,useOfForce,2015-01-17 19:05:00,3100,Filbert St,Dispatched Call,3100 Filbert St,37.8219389,-122.2780095
+57,useOfForce,2015-01-17 19:05:00,3100,Filbert St,Dispatched Call,3100 Filbert St,37.8219389,-122.2780095
+58,useOfForce,2015-01-18 20:37:00,1300,80th Ave,On View,1300 80th Ave,37.7553663,-122.1837604
+59,useOfForce,2015-01-19 0:16:00,,64th Ave & Hayes St,Dispatched Call,64th Ave & Hayes St,37.7662653,-122.1908847
+60,useOfForce,2015-01-21 23:30:00,8300,A St,Dispatched Call,8300 A St,37.754,-122.180052
+61,useOfForce,2015-01-21 23:30:00,8300,A St,Dispatched Call,8300 A St,37.754,-122.180052
+62,useOfForce,2015-01-23 19:57:00,10400,Edes Ave,Dispatched Call,10400 Edes Ave,37.7341109,-122.1784888
+63,useOfForce,2015-01-23 19:57:00,10400,Edes Ave,Dispatched Call,10400 Edes Ave,37.7341109,-122.1784888
+64,useOfForce,2015-01-23 19:57:00,10400,Edes Ave,Dispatched Call,10400 Edes Ave,37.7341109,-122.1784888
+65,useOfForce,2015-01-23 19:57:00,10400,Edes Ave,Dispatched Call,10400 Edes Ave,37.7341109,-122.1784888
+66,useOfForce,2015-01-23 19:57:00,10400,Edes Ave,Dispatched Call,10400 Edes Ave,37.7341109,-122.1784888
+67,useOfForce,2015-01-24 8:05:00,4100,West St,Dispatched Call,4100 West St,37.8309951,-122.2708093
+68,useOfForce,2015-01-24 8:05:00,4100,West St,Dispatched Call,4100 West St,37.8309951,-122.2708093
+69,useOfForce,2015-01-25 14:44:00,3200,Chestnut St,Dispatched Call,3200 Chestnut St,37.823377,-122.2798319
+70,useOfForce,2015-01-29 18:50:00,9800,Gould St,Dispatched Call,9800 Gould St,37.7406428,-122.1778638
+71,useOfForce,2015-01-30 1:35:00,3900,Mera St,On View,3900 Mera St,37.7795253,-122.2143669
+72,useOfForce,2015-02-01 0:03:00,1400,Harrison St,On View,1400 Harrison St,37.8029283,-122.2676028
+73,useOfForce,2015-02-01 0:03:00,1400,Harrison St,On View,1400 Harrison St,37.8029283,-122.2676028
+74,useOfForce,2015-02-02 16:50:00,1000,76th Ave,On View,1000 76th Ave,37.7541879,-122.1909663
+75,useOfForce,2015-02-02 19:50:00,5000,Foothill Blvd,On View,5000 Foothill Blvd,37.7726564,-122.2063788
+76,useOfForce,2015-02-02 19:50:00,5000,Foothill Blvd,On View,5000 Foothill Blvd,37.7726564,-122.2063788
+77,useOfForce,2015-02-02 20:01:00,1900,87th Ave,On View,1900 87th Ave,37.753953,-122.170594
+78,useOfForce,2015-02-02 20:56:00,900,45th St,On View,900 45th St,37.8344668,-122.2730091
+79,useOfForce,2015-02-03 17:36:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+80,useOfForce,2015-02-03 17:36:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+81,useOfForce,2015-02-04 7:45:00,7000,MacArthur Blvd,Dispatched Call,7000 MacArthur Blvd,37.7703841,-122.1741172
+82,useOfForce,2015-02-04 7:45:00,7000,MacArthur Blvd,Dispatched Call,7000 MacArthur Blvd,37.7703841,-122.1741172
+83,useOfForce,2015-02-04 7:45:00,7000,MacArthur Blvd,Dispatched Call,7000 MacArthur Blvd,37.7703841,-122.1741172
+84,useOfForce,2015-02-04 7:45:00,7000,MacArthur Blvd,Dispatched Call,7000 MacArthur Blvd,37.7703841,-122.1741172
+85,useOfForce,2015-02-06 12:33:00,500,48th St,Dispatched Call,500 48th St,37.8350391,-122.262922
+86,useOfForce,2015-02-06 20:46:00,,16th Ave & Gleason Way,On View,16th Ave & Gleason Way,37.7895946,-122.2429925
+87,useOfForce,2015-02-06 20:46:00,,16th Ave & Gleason Way,On View,16th Ave & Gleason Way,37.7895946,-122.2429925
+88,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+89,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+90,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+91,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+92,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+93,useOfForce,2015-02-07 0:22:00,2100,E 17th St,Dispatched Call,2100 E 17th St,37.7877043,-122.2365298
+94,useOfForce,2015-02-07 1:30:00,2000,96th Ave,Dispatched Call,2000 96th Ave,37.7488231,-122.1650363
+95,useOfForce,2015-02-07 10:40:00,1600,102nd Ave,Dispatched Call,1600 102nd Ave,37.741907,-122.1661574
+96,useOfForce,2015-02-07 10:40:00,1600,102nd Ave,Dispatched Call,1600 102nd Ave,37.741907,-122.1661574
+97,useOfForce,2015-02-07 10:40:00,1600,102nd Ave,Dispatched Call,1600 102nd Ave,37.741907,-122.1661574
+98,useOfForce,2015-02-07 10:40:00,1600,102nd Ave,Dispatched Call,1600 102nd Ave,37.741907,-122.1661574
+99,useOfForce,2015-02-07 23:55:00,2000,82nd Ave,On View,2000 82nd Ave,37.7590968,-122.172055
+100,useOfForce,2015-02-07 23:55:00,2000,82nd Ave,On View,2000 82nd Ave,37.7590968,-122.172055
+101,useOfForce,2015-02-08 21:51:00,9800,Koford Dr,On View,9800 Koford Dr,37.7301484,-122.1913501
+102,useOfForce,2015-02-09 14:10:00,4700,"Redding St, Oakalnd CA 94605",Dispatched Call,"4700 Redding St, Oakalnd CA 94605",37.7836391,-122.1913176
+103,useOfForce,2015-02-09 23:34:00,2200,International Blvd,On View,2200 International Blvd,37.7846618,-122.2373546
+104,useOfForce,2015-02-09 23:34:00,2200,International Blvd,On View,2200 International Blvd,37.7846618,-122.2373546
+105,useOfForce,2015-02-10 11:06:00,500,"Jackson St, Oakland CA 94610",Dispatched Call,"500 Jackson St, Oakland CA 94610",37.7958106,-122.2690958
+106,useOfForce,2015-02-10 17:45:00,4300,West St,"Special Project (e.g., 647b)",4300 West St,37.8326749,-122.2702383
+107,useOfForce,2015-02-11 7:58:00,1600,90th Ave,Dispatched Call,1600 90th Ave,37.7504396,-122.171841
+108,useOfForce,2015-02-11 15:00:00,4800,Telegraph Ave,Dispatched Call,4800 Telegraph Ave,37.8348173,-122.2627407
+109,useOfForce,2015-02-11 15:00:00,4800,Telegraph Ave,Dispatched Call,4800 Telegraph Ave,37.8348173,-122.2627407
+110,useOfForce,2015-02-11 15:00:00,4800,Telegraph Ave,Dispatched Call,4800 Telegraph Ave,37.8348173,-122.2627407
+111,useOfForce,2015-02-11 18:27:00,2400,Seminary Ave,On View,2400 Seminary Ave,37.7699679,-122.1926526
+112,useOfForce,2015-02-11 18:27:00,2400,Seminary Ave,On View,2400 Seminary Ave,37.7699679,-122.1926526
+113,useOfForce,2015-02-11 20:28:00,9400,Thermal,On View,9400 Thermal,37.7533042,-122.1591047
+114,useOfForce,2015-02-11 20:28:00,9400,Thermal,On View,9400 Thermal,37.7533042,-122.1591047
+115,useOfForce,2015-02-12 13:34:00,300,"Henry St, Oakland CA 94607",Dispatched Call,"300 Henry St, Oakland CA 94607",37.8031433,-122.2980124
+116,useOfForce,2015-02-12 13:34:00,300,"Henry St, Oakland CA 94607",Dispatched Call,"300 Henry St, Oakland CA 94607",37.8031433,-122.2980124
+117,useOfForce,2015-02-13 9:43:00,1000,88th Ave,Citizen Flag Down,1000 88th Ave,37.7481808,-122.1819201
+118,useOfForce,2015-02-13 9:43:00,1000,88th Ave,Citizen Flag Down,1000 88th Ave,37.7481808,-122.1819201
+119,useOfForce,2015-02-13 19:15:00,1500,Broadway,On View,1500 Broadway,37.8053381,-122.2703573
+120,useOfForce,2015-02-13 22:48:00,,Carson St & Mountain Blvd,On View,Carson St & Mountain Blvd,37.7942516,-122.1813646
+121,useOfForce,2015-02-13 23:03:00,10100,International Blvd,On View,10100 International Blvd,37.7420361,-122.1683009
+122,useOfForce,2015-02-13 23:03:00,10100,International Blvd,On View,10100 International Blvd,37.7420361,-122.1683009
+123,useOfForce,2015-02-14 2:19:00,2300,66th Ave,Dispatched Call,2300 66th Ave,37.7657311,-122.1886014
+124,useOfForce,2015-02-14 23:59:00,7300,Bancroft Ave,Dispatched Call,7300 Bancroft Ave,37.7687013,-122.1758467
+125,useOfForce,2015-02-14 23:59:00,7300,Bancroft Ave,Dispatched Call,7300 Bancroft Ave,37.7687013,-122.1758467
+126,useOfForce,2015-02-15 11:22:00,10600,Peralto Oaks Dr,Dispatched Call,10600 Peralto Oaks Dr,37.7438645,-122.1465566
+127,useOfForce,2015-02-15 11:22:00,10600,Peralto Oaks Dr,Dispatched Call,10600 Peralto Oaks Dr,37.7438645,-122.1465566
+128,useOfForce,2015-02-15 11:22:00,10600,Peralto Oaks Dr,Dispatched Call,10600 Peralto Oaks Dr,37.7438645,-122.1465566
+129,useOfForce,2015-02-15 21:14:00,1200,Excelsior St,On View,1200 Excelsior St,37.8044994,-122.2317203
+130,useOfForce,2015-02-17 11:08:00,2700,64th Ave,Dispatched Call,2700 64th Ave,37.7703157,-122.1849518
+131,useOfForce,2015-02-17 11:08:00,2700,64th Ave,Dispatched Call,2700 64th Ave,37.7703157,-122.1849518
+132,useOfForce,2015-02-18 14:51:00,5400,Bancroft Ave,On View,5400 Bancroft Ave,37.7720246,-122.2006248
+133,useOfForce,2015-02-20 17:51:00,2900,14th Ave,Dispatched Call,2900 14th Ave,37.7974074,-122.2300463
+134,useOfForce,2015-02-22 17:10:00,6100,International Blvd,"Special Project (e.g., 647b)",6100 International Blvd,37.7646189,-122.1981085
+135,useOfForce,2015-02-23 16:13:00,6600,Arthur St,On View,6600 Arthur St,37.7682552,-122.1850121
+136,useOfForce,2015-02-23 16:13:00,6600,Arthur St,On View,6600 Arthur St,37.7682552,-122.1850121
+137,useOfForce,2015-02-24 14:25:00,2500,Garden St,"Special Project (e.g., 647b)",2500 Garden St,37.7919635,-122.2229864
+138,useOfForce,2015-02-24 14:25:00,2500,Garden St,"Special Project (e.g., 647b)",2500 Garden St,37.7919635,-122.2229864
+139,useOfForce,2015-02-25 13:38:00,8300,MacArthur Blvd,On View,8300 MacArthur Blvd,37.7621648,-122.1639391
+140,useOfForce,2015-02-25 13:38:00,8300,MacArthur Blvd,On View,8300 MacArthur Blvd,37.7621648,-122.1639391
+141,useOfForce,2015-02-26 12:40:00,2400,26th Ave,On View,2400 26th Ave,37.7883948,-122.2250886
+142,useOfForce,2015-02-26 15:20:00,2600,62nd Ave,Dispatched Call,2600 62nd Ave,37.7700286,-122.1877361
+143,useOfForce,2015-02-26 15:20:00,2600,62nd Ave,Dispatched Call,2600 62nd Ave,37.7700286,-122.1877361
+144,useOfForce,2015-02-28 21:27:00,2800,Broadway,On View,2800 Broadway,37.8164596,-122.2632176
+145,useOfForce,2015-03-01 2:10:00,500,62nd St,Dispatched Call,500 62nd St,37.8480635,-122.260991
+146,useOfForce,2015-03-01 10:38:00,3200,Logan St,Dispatched Call,3200 Logan St,37.7876282,-122.2212075
+147,useOfForce,2015-03-01 10:38:00,3200,Logan St,Dispatched Call,3200 Logan St,37.7876282,-122.2212075
+148,useOfForce,2015-03-02 9:35:00,2300,E 12th St,Dispatched Call,2300 E 12th St,37.7827465,-122.2364391
+149,useOfForce,2015-03-04 1:35:00,3100,San Pable Ave,On View,3100 San Pable Ave,37.8217221,-122.2765522
+150,useOfForce,2015-03-05 3:30:00,1400,E 31st St,Dispatched Call,1400 E 31st St,37.7992914,-122.23137
+151,useOfForce,2015-03-05 11:16:00,3900,Columbian Dr,On View,3900 Columbian Dr,37.7743218,-122.1631125
+152,useOfForce,2015-03-05 11:16:00,3900,Columbian Dr,On View,3900 Columbian Dr,37.7743218,-122.1631125
+153,useOfForce,2015-03-06 9:55:00,1300,85th Ave,On View,1300 85th Ave,37.7524892,-122.1789353
+154,useOfForce,2015-03-06 22:05:00,4100,Penniman Ct,Dispatched Call,4100 Penniman Ct,37.7847348,-122.2024928
+155,useOfForce,2015-03-06 22:05:00,4100,Penniman Ct,Dispatched Call,4100 Penniman Ct,37.7847348,-122.2024928
+156,useOfForce,2015-03-06 22:05:00,4100,Penniman Ct,Dispatched Call,4100 Penniman Ct,37.7847348,-122.2024928
+157,useOfForce,2015-03-06 22:05:00,4100,Penniman Ct,Dispatched Call,4100 Penniman Ct,37.7847348,-122.2024928
+158,useOfForce,2015-03-06 22:56:00,5200,Internaitonal Blvd,On View,5200 Internaitonal Blvd,37.7687392,-122.2067959
+159,useOfForce,2015-03-06 22:56:00,5200,Internaitonal Blvd,On View,5200 Internaitonal Blvd,37.7687392,-122.2067959
+160,useOfForce,2015-03-06 22:56:00,5200,Internaitonal Blvd,On View,5200 Internaitonal Blvd,37.7687392,-122.2067959
+161,useOfForce,2015-03-06 22:56:00,5200,Internaitonal Blvd,On View,5200 Internaitonal Blvd,37.7687392,-122.2067959
+162,useOfForce,2015-03-07 22:57:00,1400,Seminary Ave,On View,1400 Seminary Ave,37.7651327,-122.1995292
+163,useOfForce,2015-03-08 17:55:00,5900,Hayes St,On View,5900 Hayes St,37.768672,-122.1940658
+164,useOfForce,2015-03-08 17:55:00,5900,Hayes St,On View,5900 Hayes St,37.768672,-122.1940658
+165,useOfForce,2015-03-09 1:37:00,800,Union St,On View,800 Union St,37.8055221,-122.2897725
+166,useOfForce,2015-03-09 1:37:00,800,Union St,On View,800 Union St,37.8055221,-122.2897725
+167,useOfForce,2015-03-09 20:15:00,3100,Stuart St,Dispatched Call,3100 Stuart St,37.7992985,-122.2313675
+168,useOfForce,2015-03-10 9:18:00,2300,Maywood Ave,Dispatched Call,2300 Maywood Ave,37.7627452,-122.1779513
+169,useOfForce,2015-03-10 9:18:00,2300,Maywood Ave,Dispatched Call,2300 Maywood Ave,37.7627452,-122.1779513
+170,useOfForce,2015-03-10 15:37:00,,82nd Ave & Bancroft Ave,Dispatched Call,82nd Ave & Bancroft Ave,37.7600891,-122.1703692
+171,useOfForce,2015-03-11 4:17:00,2400,Casa Ct,Dispatched Call,2400 Casa Ct,37.7536655,-122.1613147
+172,useOfForce,2015-03-11 19:40:00,9800,International Blvd,Dispatched Call,9800 International Blvd,37.7443812,-122.1700212
+173,useOfForce,2015-03-12 14:40:00,1800,38th Ave,Dispatched Call,1800 38th Ave,37.777169,-122.217523
+174,useOfForce,2015-03-13 19:08:00,5900,Seminary,Dispatched Call,5900 Seminary,37.7695377,-122.1933386
+175,useOfForce,2015-03-13 19:08:00,5900,Seminary,Dispatched Call,5900 Seminary,37.7695377,-122.1933386
+176,useOfForce,2015-03-14 0:10:00,1300,29th Ave,On View,1300 29th Ave,37.778672,-122.2291802
+177,useOfForce,2015-03-14 6:36:00,3900,Fruitvale Ave,Dispatched Call,3900 Fruitvale Ave,37.8050924,-122.2123153
+178,useOfForce,2015-03-14 14:08:00,3900,Delomont Ave,Dispatched Call,3900 Delomont Ave,37.7762404,-122.1707135
+179,useOfForce,2015-03-15 1:17:00,4400,Bancroft Ave,Dispatched Call,4400 Bancroft Ave,37.7731577,-122.2130541
+180,useOfForce,2015-03-15 1:17:00,4400,Bancroft Ave,Dispatched Call,4400 Bancroft Ave,37.7731577,-122.2130541
+181,useOfForce,2015-03-15 1:30:00,500,62nd St,Dispatched Call,500 62nd St,37.8480635,-122.260991
+182,useOfForce,2015-03-15 1:30:00,500,62nd St,Dispatched Call,500 62nd St,37.8480635,-122.260991
+183,useOfForce,2015-03-16 0:01:00,2200,E 15th St,Dispatched Call,2200 E 15th St,37.7855125,-122.2367833
+184,useOfForce,2015-03-16 0:01:00,2200,E 15th St,Dispatched Call,2200 E 15th St,37.7855125,-122.2367833
+185,useOfForce,2015-03-16 15:00:00,5000,MacArthur Blvd,"Drug Related (e.g., Surveillance)",5000 MacArthur Blvd,37.7826241,-122.187809
+186,useOfForce,2015-03-16 15:00:00,5000,MacArthur Blvd,"Drug Related (e.g., Surveillance)",5000 MacArthur Blvd,37.7826241,-122.187809
+187,useOfForce,2015-03-17 4:20:00,600,66th Ave,Dispatched Call,600 66th Ave,37.7542287,-122.2057826
+188,useOfForce,2015-03-17 13:20:00,3600,E 16th St,Dispatched Call,3600 E 16th St,37.7780081,-122.2205319
+189,useOfForce,2015-03-17 13:20:00,3600,E 16th St,Dispatched Call,3600 E 16th St,37.7780081,-122.2205319
+190,useOfForce,2015-03-17 13:20:00,3600,E 16th St,Dispatched Call,3600 E 16th St,37.7780081,-122.2205319
+191,useOfForce,2015-03-17 13:20:00,3600,E 16th St,Dispatched Call,3600 E 16th St,37.7780081,-122.2205319
+192,useOfForce,2015-03-17 13:48:00,5400,Foothill Blvd,On View,5400 Foothill Blvd,37.7728721,-122.1984387
+193,useOfForce,2015-03-17 13:48:00,5400,Foothill Blvd,On View,5400 Foothill Blvd,37.7728721,-122.1984387
+194,useOfForce,2015-03-18 17:00:00,1600,10th St,"Special Project (e.g., 647b)",1600 10th St,37.8084185,-122.2963131
+195,useOfForce,2015-03-19 14:36:00,1200,Hegenberger Rd,On View,1200 Hegenberger Rd,37.7497749,-122.1956332
+196,useOfForce,2015-03-19 14:36:00,1200,Hegenberger Rd,On View,1200 Hegenberger Rd,37.7497749,-122.1956332
+197,useOfForce,2015-03-21 1:32:00,1100,82nd Ave,On View,1100 82nd Ave,37.7530449,-122.1835859
+198,useOfForce,2015-03-21 1:32:00,1100,82nd Ave,On View,1100 82nd Ave,37.7530449,-122.1835859
+199,useOfForce,2015-03-22 0:55:00,,79th Ave & Plymouth St,On View,79th Ave & Plymouth St,37.7595737,-122.1772852
+200,useOfForce,2015-03-22 0:55:00,,79th Ave & Plymouth St,On View,79th Ave & Plymouth St,37.7595737,-122.1772852
+201,useOfForce,2015-03-22 8:45:00,400,17th St,"Special Project (e.g., 647b)",400 17th St,37.8061869,-122.268504
+202,useOfForce,2015-03-24 0:40:00,7200,Holly St,On View,7200 Holly St,37.7627903,-122.1833115
+203,useOfForce,2015-03-25 9:30:00,2300,E 17th St,On View,2300 E 17th St,37.7858488,-122.2329023
+204,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+205,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+206,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+207,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+208,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+209,useOfForce,2015-03-25 17:40:00,2500,Telegraph,On View,2500 Telegraph,37.8146714,-122.2682954
+210,useOfForce,2015-03-26 4:31:00,,55th & International Blvd,Dispatched Call,55th & International Blvd,37.7670908,-122.2037266
+211,useOfForce,2015-03-26 4:31:00,,55th & International Blvd,Dispatched Call,55th & International Blvd,37.7670908,-122.2037266
+212,useOfForce,2015-03-26 21:29:00,900,Peralta St,Citizen Flag Down,900 Peralta St,37.8080679,-122.2965734
+213,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+214,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+215,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+216,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+217,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+218,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+219,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+220,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+221,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+222,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+223,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+224,useOfForce,2015-03-26 22:31:00,3700,Maybelle Ave,On View,3700 Maybelle Ave,37.7895789,-122.1937847
+225,useOfForce,2015-03-27 13:10:00,1800,Durant Ave,On View,1800 Durant Ave,37.7380414,-122.1587843
+226,useOfForce,2015-03-28 10:01:00,,66th Ave & I 880 Overpass,Dispatched Call,66th Ave & I 880 Overpass,37.7643628,-122.1906978
+227,useOfForce,2015-03-29 19:03:00,800,Washington St,Dispatched Call,800 Washington St,37.800687,-122.2749854
+228,useOfForce,2015-03-30 0:26:00,800,International Blvd,Dispatched Call,800 International Blvd,37.7935359,-122.2511028
+229,useOfForce,2015-03-30 0:26:00,800,International Blvd,Dispatched Call,800 International Blvd,37.7935359,-122.2511028
+230,useOfForce,2015-03-31 17:23:00,800,37th St,On View,800 37th St,37.826699,-122.271904
+231,useOfForce,2015-03-31 17:23:00,800,37th St,On View,800 37th St,37.826699,-122.271904
+232,useOfForce,2015-03-31 17:23:00,800,37th St,On View,800 37th St,37.826699,-122.271904
+233,useOfForce,2015-03-31 19:14:00,1000,76th Ave,On View,1000 76th Ave,37.7541879,-122.1909663
+234,useOfForce,2015-04-01 18:10:00,4700,Foothill Blvd,On View,4700 Foothill Blvd,37.7732232,-122.2086966
+235,useOfForce,2015-04-01 18:10:00,4700,Foothill Blvd,On View,4700 Foothill Blvd,37.7732232,-122.2086966
+236,useOfForce,2015-04-02 11:07:00,1600,82nd Ave,Dispatched Call,1600 82nd Ave,37.7565977,-122.1771992
+237,useOfForce,2015-04-03 16:10:00,1900,Myrtle St,"Special Project (e.g., 647b)",1900 Myrtle St,37.8121807,-122.2803744
+238,useOfForce,2015-04-05 18:10:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+239,useOfForce,2015-04-05 18:10:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+240,useOfForce,2015-04-05 18:10:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+241,useOfForce,2015-04-05 18:10:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+242,useOfForce,2015-04-07 11:37:00,1000,88th Ave,On View,1000 88th Ave,37.7481808,-122.1819201
+243,useOfForce,2015-04-07 11:37:00,1000,88th Ave,On View,1000 88th Ave,37.7481808,-122.1819201
+244,useOfForce,2015-04-07 15:46:00,,5th Ave & International Blvd,On View,5th Ave & International Blvd,37.7957523,-122.253826
+245,useOfForce,2015-04-07 16:10:00,2700,Alvingroom Ct,On View,2700 Alvingroom Ct,37.7609648,-122.1613396
+246,useOfForce,2015-04-07 19:50:00,,41st St & Piedmont Ave,Dispatched Call,41st St & Piedmont Ave,37.8264065,-122.2524382
+247,useOfForce,2015-04-07 19:50:00,,41st St & Piedmont Ave,Dispatched Call,41st St & Piedmont Ave,37.8264065,-122.2524382
+248,useOfForce,2015-04-07 19:50:00,,41st St & Piedmont Ave,Dispatched Call,41st St & Piedmont Ave,37.8264065,-122.2524382
+249,useOfForce,2015-04-08 6:34:00,3900,Edwards Ave,On View,3900 Edwards Ave,37.7739238,-122.1675758
+250,useOfForce,2015-04-08 6:34:00,3900,Edwards Ave,On View,3900 Edwards Ave,37.7739238,-122.1675758
+251,useOfForce,2015-04-09 8:59:00,2200,E 24th St,Dispatched Call,2200 E 24th St,37.7914172,-122.2301284
+252,useOfForce,2015-04-10 22:17:00,1300,7th St,On View,1300 7th St,37.8049145,-122.2912178
+253,useOfForce,2015-04-12 4:28:00,3800,"Columbian Dr, Oakland CA 94605",Dispatched Call,"3800 Columbian Dr, Oakland CA 94605",37.7735557,-122.1632738
+254,useOfForce,2015-04-13 1:48:00,2700,68th Ave,On View,2700 68th Ave,37.7676752,-122.1812346
+255,useOfForce,2015-04-13 7:31:00,0,Hegenberger Rd,Dispatched Call,0 Hegenberger Rd,37.7267152,-122.2012741
+256,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+257,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+258,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+259,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+260,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+261,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+262,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+263,useOfForce,2015-04-13 15:34:00,900,46th St,On View,900 46th St,37.8352109,-122.2730999
+264,useOfForce,2015-04-14 10:30:00,1700,81st Ave,"Special Project (e.g., 647b)",1700 81st Ave,37.758119,-122.1760037
+265,useOfForce,2015-04-14 17:25:00,1100,82nd Ave,Dispatched Call,1100 82nd Ave,37.7530449,-122.1835859
+266,useOfForce,2015-04-14 17:25:00,1100,82nd Ave,Dispatched Call,1100 82nd Ave,37.7530449,-122.1835859
+267,useOfForce,2015-04-15 15:45:00,2200,Dashwood Ave,Dispatched Call,2200 Dashwood Ave,37.7616813,-122.1782635
+268,useOfForce,2015-04-15 18:58:00,1400,Center St,On View,1400 Center St,37.8112886,-122.2926048
+269,useOfForce,2015-04-17 4:16:00,500,Independent Rd,On View,500 Independent Rd,37.7554586,-122.208155
+270,useOfForce,2015-04-17 4:16:00,500,Independent Rd,On View,500 Independent Rd,37.7554586,-122.208155
+271,useOfForce,2015-04-19 2:22:00,2400,Ritchie St,Dispatched Call,2400 Ritchie St,37.7613705,-122.1736515
+272,useOfForce,2015-04-19 2:22:00,2400,Ritchie St,Dispatched Call,2400 Ritchie St,37.7613705,-122.1736515
+273,useOfForce,2015-04-19 2:22:00,2400,Ritchie St,Dispatched Call,2400 Ritchie St,37.7613705,-122.1736515
+274,useOfForce,2015-04-19 2:22:00,2400,Ritchie St,Dispatched Call,2400 Ritchie St,37.7613705,-122.1736515
+275,useOfForce,2015-04-20 2:15:00,1400,Turcker St,Dispatched Call,1400 Turcker St,37.7381732,-122.1645641
+276,useOfForce,2015-04-20 15:40:00,7800,MacArthur Blvd,Dispatched Call,7800 MacArthur Blvd,37.766663,-122.1676068
+277,useOfForce,2015-04-20 18:55:00,4200,International Blvd,"Drug Related (e.g., Surveillance)",4200 International Blvd,37.7732078,-122.2155514
+278,useOfForce,2015-04-21 2:38:00,2500,International Blvd,On View,2500 International Blvd,37.7820626,-122.2336895
+279,useOfForce,2015-04-21 2:38:00,2500,International Blvd,On View,2500 International Blvd,37.7820626,-122.2336895
+280,useOfForce,2015-04-21 2:38:00,2500,International Blvd,On View,2500 International Blvd,37.7820626,-122.2336895
+281,useOfForce,2015-04-21 2:38:00,2500,International Blvd,On View,2500 International Blvd,37.7820626,-122.2336895
+282,useOfForce,2015-04-22 17:20:00,7200,Lockwood St,On View,7200 Lockwood St,37.7638618,-122.1816337
+283,useOfForce,2015-04-22 17:20:00,7200,Lockwood St,On View,7200 Lockwood St,37.7638618,-122.1816337
+284,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+285,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+286,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+287,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+288,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+289,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+290,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+291,useOfForce,2015-04-23 18:01:00,2300,E 21st St,On View,2300 E 21st St,37.788699,-122.2316699
+292,useOfForce,2015-04-23 23:45:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+293,useOfForce,2015-04-23 23:45:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+294,useOfForce,2015-04-23 23:45:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+295,useOfForce,2015-04-23 23:45:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+296,useOfForce,2015-04-23 23:45:00,1300,84th Ave,On View,1300 84th Ave,37.7531542,-122.1792907
+297,useOfForce,2015-04-25 9:33:00,5700,Miles Ave,Dispatched Call,5700 Miles Ave,37.845141,-122.2513372
+298,useOfForce,2015-04-25 9:33:00,5700,Miles Ave,Dispatched Call,5700 Miles Ave,37.845141,-122.2513372
+299,useOfForce,2015-04-26 20:27:00,1000,102nd Ave,Dispatched Call,1000 102nd Ave,37.7382803,-122.1738699
+300,useOfForce,2015-04-29 15:01:00,1300,14th St,"Special Project (e.g., 647b)",1300 14th St,37.810305,-122.2892544
+301,useOfForce,2015-05-01 22:40:00,,17th St & Jackson St,"Special Project (e.g., 647b)",17th St & Jackson St,37.8046797,-122.2635857
+302,useOfForce,2015-05-01 22:40:00,,17th St & Jackson St,"Special Project (e.g., 647b)",17th St & Jackson St,37.8046797,-122.2635857
+303,useOfForce,2015-05-01 22:45:00,,19th St & Alice St,"Special Project (e.g., 647b)",19th St & Alice St,37.8059183,-122.264266
+304,useOfForce,2015-05-02 23:35:00,300,13th St,On View,300 13th St,37.8024486,-122.2680712
+305,useOfForce,2015-05-06 22:00:00,2800,International Blvd,Dispatched Call,2800 International Blvd,37.7799697,-122.229697
+306,useOfForce,2015-05-06 22:00:00,2800,International Blvd,Dispatched Call,2800 International Blvd,37.7799697,-122.229697
+307,useOfForce,2015-05-07 6:58:00,2000,83rd Ave,On View,2000 83rd Ave,37.7583723,-122.1717084
+308,useOfForce,2015-05-07 15:25:00,,Havenscourt Ave & Arthur St,Dispatched Call,Havenscourt Ave & Arthur St,37.7677035,-122.1844476
+309,useOfForce,2015-05-07 15:25:00,,Havenscourt Ave & Arthur St,Dispatched Call,Havenscourt Ave & Arthur St,37.7677035,-122.1844476
+310,useOfForce,2015-05-08 4:01:00,1300,42nd Ave,On View,1300 42nd Ave,37.772371,-122.2167348
+311,useOfForce,2015-05-08 4:01:00,1300,42nd Ave,On View,1300 42nd Ave,37.772371,-122.2167348
+312,useOfForce,2015-05-08 4:01:00,1300,42nd Ave,On View,1300 42nd Ave,37.772371,-122.2167348
+313,useOfForce,2015-05-08 4:01:00,1300,42nd Ave,On View,1300 42nd Ave,37.772371,-122.2167348
+314,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+315,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+316,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+317,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+318,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+319,useOfForce,2015-05-08 7:30:00,2200,E 27th St,On View,2200 E 27th St,37.793824,-122.22748
+320,useOfForce,2015-05-08 22:59:00,2100,Market St,On View,2100 Market St,37.8131538,-122.2788357
+321,useOfForce,2015-05-09 17:53:00,7300,Bancroft Ave,Dispatched Call,7300 Bancroft Ave,37.7687013,-122.1758467
+322,useOfForce,2015-05-09 17:53:00,7300,Bancroft Ave,Dispatched Call,7300 Bancroft Ave,37.7687013,-122.1758467
+323,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+324,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+325,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+326,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+327,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+328,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+329,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+330,useOfForce,2015-05-10 7:25:00,3600,Peralta St,Dispatched Call,3600 Peralta St,37.8276682,-122.2806043
+331,useOfForce,2015-05-10 15:11:00,8300,International Blvd,On View,8300 International Blvd,37.7551661,-122.1785112
+332,useOfForce,2015-05-10 19:04:00,1200,89th St,"Special Project (e.g., 647b)",1200 89th St,37.7488646,-122.1782192
+333,useOfForce,2015-05-13 2:25:00,1300,Harrison St,Dispatched Call,1300 Harrison St,37.8022423,-122.2680246
+334,useOfForce,2015-05-14 14:38:00,8800,"Dowling St, Oakland CA 94605",On View,"8800 Dowling St, Oakland CA 94605",37.7557078,-122.1651842
+335,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+336,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+337,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+338,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+339,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+340,useOfForce,2015-05-15 9:10:00,800,West Grand Ave,On View,800 West Grand Ave,37.8140773,-122.2780267
+341,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+342,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+343,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+344,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+345,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+346,useOfForce,2015-05-15 13:00:00,800,32nd St,"Special Project (e.g., 647b)",800 32nd St,37.8219518,-122.2731035
+347,useOfForce,2015-05-15 13:10:00,7100,Lockwood St,"Special Project (e.g., 647b)",7100 Lockwood St,37.7641513,-122.1818109
+348,useOfForce,2015-05-15 13:10:00,7100,Lockwood St,"Special Project (e.g., 647b)",7100 Lockwood St,37.7641513,-122.1818109
+349,useOfForce,2015-05-16 5:45:00,1700,9th Ave,Dispatched Call,1700 9th Ave,37.7947972,-122.2477259
+350,useOfForce,2015-05-16 23:07:00,10500,Topanga Dr,Dispatched Call,10500 Topanga Dr,37.7286707,-122.1808941
+351,useOfForce,2015-05-16 23:07:00,10500,Topanga Dr,Dispatched Call,10500 Topanga Dr,37.7286707,-122.1808941
+352,useOfForce,2015-05-16 23:07:00,10500,Topanga Dr,Dispatched Call,10500 Topanga Dr,37.7286707,-122.1808941
+353,useOfForce,2015-05-16 23:07:00,10500,Topanga Dr,Dispatched Call,10500 Topanga Dr,37.7286707,-122.1808941
+354,useOfForce,2015-05-16 23:07:00,10500,Topanga Dr,Dispatched Call,10500 Topanga Dr,37.7286707,-122.1808941
+355,useOfForce,2015-05-17 10:05:00,1300,Broadway,On View,1300 Broadway,37.8037639,-122.2714291
+356,useOfForce,2015-05-17 10:05:00,1300,Broadway,On View,1300 Broadway,37.8037639,-122.2714291
+357,useOfForce,2015-05-17 10:05:00,1300,Broadway,On View,1300 Broadway,37.8037639,-122.2714291
+358,useOfForce,2015-05-20 13:39:00,4500,MacArthur Blvd,On View,4500 MacArthur Blvd,37.7855425,-122.1921065
+359,useOfForce,2015-05-20 13:39:00,4500,MacArthur Blvd,On View,4500 MacArthur Blvd,37.7855425,-122.1921065
+360,useOfForce,2015-05-21 15:50:00,600,Clara St,"Special Project (e.g., 647b)",600 Clara St,37.7376027,-122.187491
+361,useOfForce,2015-05-21 15:50:00,600,Clara St,"Special Project (e.g., 647b)",600 Clara St,37.7376027,-122.187491
+362,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+363,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+364,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+365,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+366,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+367,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+368,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+369,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+370,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+371,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+372,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+373,useOfForce,2015-05-22 8:03:00,20000,"Mission Blvd, Hayward","Special Project (e.g., 647b)","20000 Mission Blvd, Hayward",37.6872467,-122.1022528
+374,useOfForce,2015-05-23 2:32:00,6400,Bancroft Ave,On View,6400 Bancroft Ave,37.7700819,-122.1853887
+375,useOfForce,2015-05-23 20:20:00,900,Broadway,"Special Project (e.g., 647b)",900 Broadway,37.8008672,-122.2733
+376,useOfForce,2015-05-23 20:20:00,900,Broadway,"Special Project (e.g., 647b)",900 Broadway,37.8008672,-122.2733
+377,useOfForce,2015-05-23 20:20:00,900,Broadway,"Special Project (e.g., 647b)",900 Broadway,37.8008672,-122.2733
+378,useOfForce,2015-05-23 21:00:00,300,Washington St,"Special Project (e.g., 647b)",300 Washington St,37.8049973,-122.2723709
+379,useOfForce,2015-05-23 21:00:00,300,Washington St,"Special Project (e.g., 647b)",300 Washington St,37.8049973,-122.2723709
+380,useOfForce,2015-05-23 21:00:00,300,Washington St,"Special Project (e.g., 647b)",300 Washington St,37.8049973,-122.2723709
+381,useOfForce,2015-05-23 21:00:00,300,Washington St,"Special Project (e.g., 647b)",300 Washington St,37.8049973,-122.2723709
+382,useOfForce,2015-05-23 21:00:00,,3rd St & Washington St,"Special Project (e.g., 647b)",3rd St & Washington St,37.797248,-122.2771255
+383,useOfForce,2015-05-23 21:00:00,,3rd St & Washington St,"Special Project (e.g., 647b)",3rd St & Washington St,37.797248,-122.2771255
+384,useOfForce,2015-05-26 9:55:00,2300,"Mitchell St, Oakland CA",Dispatched Call,"2300 Mitchell St, Oakland CA",37.7866559,-122.2245114
+385,useOfForce,2015-05-26 9:55:00,2300,"Mitchell St, Oakland CA",Dispatched Call,"2300 Mitchell St, Oakland CA",37.7866559,-122.2245114
+386,useOfForce,2015-05-26 9:55:00,2300,"Mitchell St, Oakland CA",Dispatched Call,"2300 Mitchell St, Oakland CA",37.7866559,-122.2245114
+387,useOfForce,2015-05-26 9:55:00,2300,"Mitchell St, Oakland CA",Dispatched Call,"2300 Mitchell St, Oakland CA",37.7866559,-122.2245114
+388,useOfForce,2015-05-27 10:28:00,2100,48th Ave,Dispatched Call,2100 48th Ave,37.7745844,-122.2062609
+389,useOfForce,2015-05-27 10:28:00,2100,48th Ave,Dispatched Call,2100 48th Ave,37.7745844,-122.2062609
+390,useOfForce,2015-05-27 10:28:00,2100,48th Ave,Dispatched Call,2100 48th Ave,37.7745844,-122.2062609
+391,useOfForce,2015-05-27 10:28:00,2100,48th Ave,Dispatched Call,2100 48th Ave,37.7745844,-122.2062609
+392,useOfForce,2015-05-27 10:28:00,2100,48th Ave,Dispatched Call,2100 48th Ave,37.7745844,-122.2062609
+393,useOfForce,2015-05-27 19:30:00,300,W MacArthur Blvd,On View,300 W MacArthur Blvd,37.8245109,-122.2586518
+394,useOfForce,2015-05-27 19:55:00,300,"14th St, Oakland CA",Dispatched Call,"300 14th St, Oakland CA",37.8030737,-122.2676825
+395,useOfForce,2015-05-27 19:55:00,300,"14th St, Oakland CA",Dispatched Call,"300 14th St, Oakland CA",37.8030737,-122.2676825
+396,useOfForce,2015-05-28 11:30:00,800,Center St,"Drug Related (e.g., Surveillance)",800 Center St,37.8084238,-122.2940402
+397,useOfForce,2015-05-28 14:30:00,700,W MacArthur Blvd,"Special Project (e.g., 647b)",700 W MacArthur Blvd,37.8276555,-122.2705063
+398,useOfForce,2015-05-28 14:30:00,700,W MacArthur Blvd,"Special Project (e.g., 647b)",700 W MacArthur Blvd,37.8276555,-122.2705063
+399,useOfForce,2015-05-28 17:20:00,200,Fruitvale Ave,Dispatched Call,200 Fruitvale Ave,37.7721414,-122.2284017
+400,useOfForce,2015-05-29 15:25:00,500,High St,Dispatched Call,500 High St,37.7666897,-122.2213363
+401,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+402,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+403,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+404,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+405,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+406,useOfForce,2015-05-29 15:48:00,3400,Seminary Ave,Dispatched Call,3400 Seminary Ave,37.777375,-122.182253
+407,useOfForce,2015-05-29 23:50:00,2600,Sunset Ave,Dispatched Call,2600 Sunset Ave,37.7899054,-122.2187829
+408,useOfForce,2015-05-31 23:55:00,1300,100th Ave,Dispatched Call,1300 100th Ave,37.7416975,-122.1703652
+409,useOfForce,2015-05-31 23:55:00,1300,100th Ave,Dispatched Call,1300 100th Ave,37.7416975,-122.1703652
+410,useOfForce,2015-06-02 10:29:00,1400,74th Ave,Dispatched Call,1400 74th Ave,37.7588782,-122.1861574
+411,useOfForce,2015-06-02 10:29:00,1400,74th Ave,Dispatched Call,1400 74th Ave,37.7588782,-122.1861574
+412,useOfForce,2015-06-03 13:30:00,5300,Bancroft Ave,On View,5300 Bancroft Ave,37.7719676,-122.2028723
+413,useOfForce,2015-06-03 17:25:00,5700,Maccall St,Dispatched Call,5700 Maccall St,37.8424189,-122.2665603
+414,useOfForce,2015-06-03 20:16:00,2400,Telegraph Ave,Dispatched Call,2400 Telegraph Ave,37.8138975,-122.2684813
+415,useOfForce,2015-06-03 20:16:00,2400,Telegraph Ave,Dispatched Call,2400 Telegraph Ave,37.8138975,-122.2684813
+416,useOfForce,2015-06-04 8:34:00,700,W MacArthur Blvd,Dispatched Call,700 W MacArthur Blvd,37.8276555,-122.2705063
+417,useOfForce,2015-06-04 14:00:00,4700,MacArthur Blvd,Citizen Flag Down,4700 MacArthur Blvd,37.7854622,-122.1902804
+418,useOfForce,2015-06-04 14:00:00,4700,MacArthur Blvd,Citizen Flag Down,4700 MacArthur Blvd,37.7854622,-122.1902804
+419,useOfForce,2015-06-04 16:48:00,1600,38th Ave,On View,1600 38th Ave,37.7764104,-122.2185198
+420,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+421,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+422,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+423,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+424,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+425,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+426,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+427,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+428,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+429,useOfForce,2015-06-05 10:21:00,9900,Dante Ave,Dispatched Call,9900 Dante Ave,37.7463595,-122.1594046
+430,useOfForce,2015-06-05 17:40:00,2700,Parker Ave,Dispatched Call,2700 Parker Ave,37.764767,-122.1699708
+431,useOfForce,2015-06-05 17:40:00,2700,Parker Ave,Dispatched Call,2700 Parker Ave,37.764767,-122.1699708
+432,useOfForce,2015-06-05 17:40:00,2700,Parker Ave,Dispatched Call,2700 Parker Ave,37.764767,-122.1699708
+433,useOfForce,2015-06-05 22:00:00,2300,San Pablo Ave,Dispatched Call,2300 San Pablo Ave,37.8138792,-122.2742779
+434,useOfForce,2015-06-05 23:43:00,1700,70th Ave,Dispatched Call,1700 70th Ave,37.7624251,-122.1860126
+435,useOfForce,2015-06-06 8:43:00,500,Lake Park Ave,Dispatched Call,500 Lake Park Ave,37.8105528,-122.247021
+436,useOfForce,2015-06-06 8:43:00,500,Lake Park Ave,Dispatched Call,500 Lake Park Ave,37.8105528,-122.247021
+437,useOfForce,2015-06-06 22:16:00,3200,Lakeshore Ave,On View,3200 Lakeshore Ave,37.8100632,-122.2452832
+438,useOfForce,2015-06-06 22:16:00,3200,Lakeshore Ave,On View,3200 Lakeshore Ave,37.8100632,-122.2452832
+439,useOfForce,2015-06-08 18:56:00,9600,MacArthur Blvd,"Special Project (e.g., 647b)",9600 MacArthur Blvd,37.7512683,-122.1594817
+440,useOfForce,2015-06-09 4:00:00,3800,Lakeshore Ave,On View,3800 Lakeshore Ave,37.8141548,-122.2386448
+441,useOfForce,2015-06-09 4:00:00,3800,Lakeshore Ave,On View,3800 Lakeshore Ave,37.8141548,-122.2386448
+442,useOfForce,2015-06-09 4:00:00,3800,Lakeshore Ave,On View,3800 Lakeshore Ave,37.8141548,-122.2386448
+443,useOfForce,2015-06-10 0:55:00,500,23rd St,On View,500 23rd St,37.8126097,-122.2688144
+444,useOfForce,2015-06-10 8:15:00,2200,83rd Ave,Dispatched Call,2200 83rd Ave,37.7593191,-122.1696531
+445,useOfForce,2015-06-10 8:15:00,2200,83rd Ave,Dispatched Call,2200 83rd Ave,37.7593191,-122.1696531
+446,useOfForce,2015-06-11 18:30:00,800,MacArthur Blvd,"Drug Related (e.g., Surveillance)",800 MacArthur Blvd,37.8070603,-122.2407721
+447,useOfForce,2015-06-11 23:44:00,2200,85th Ave,On View,2200 85th Ave,37.7577341,-122.1686127
+448,useOfForce,2015-06-12 2:59:00,5400,Broadway Terrace,Dispatched Call,5400 Broadway Terrace,37.8385854,-122.2465113
+449,useOfForce,2015-06-12 2:59:00,5400,Broadway Terrace,Dispatched Call,5400 Broadway Terrace,37.8385854,-122.2465113
+450,useOfForce,2015-06-12 2:59:00,5400,Broadway Terrace,Dispatched Call,5400 Broadway Terrace,37.8385854,-122.2465113
+451,useOfForce,2015-06-14 1:53:00,1400,E 31st St,Dispatched Call,1400 E 31st St,37.7992914,-122.23137
+452,useOfForce,2015-06-14 13:55:00,3100,Davis St,On View,3100 Davis St,37.7898776,-122.2203069
+453,useOfForce,2015-06-15 14:00:00,1800,"105th Ave, Oakland",On View,"1800 105th Ave, Oakland",37.7406576,-122.1627039
+454,useOfForce,2015-06-15 14:24:00,2100,Telegraph Ave,Dispatched Call,2100 Telegraph Ave,37.8105168,-122.2684017
+455,useOfForce,2015-06-15 14:24:00,2100,Telegraph Ave,Dispatched Call,2100 Telegraph Ave,37.8105168,-122.2684017
+456,useOfForce,2015-06-15 15:43:00,0,Hegenberger Ct,On View,0 Hegenberger Ct,37.7366283,-122.1950389
+457,useOfForce,2015-06-17 0:40:00,1400,Broadway,"Special Project (e.g., 647b)",1400 Broadway,37.8043921,-122.2709531
+458,useOfForce,2015-06-17 1:00:00,1400,Broadway,"Special Project (e.g., 647b)",1400 Broadway,37.8043921,-122.2709531
+459,useOfForce,2015-06-17 1:08:00,400,7th St,"Special Project (e.g., 647b)",400 7th St,37.7990448,-122.2729768
+460,useOfForce,2015-06-17 19:41:00,6600,Foothill Blvd,Dispatched Call,6600 Foothill Blvd,37.7705638,-122.181545
+461,useOfForce,2015-06-17 19:41:00,6600,Foothill Blvd,Dispatched Call,6600 Foothill Blvd,37.7705638,-122.181545
+462,useOfForce,2015-06-18 19:27:00,8400,Enterprise Way,Dispatched Call,8400 Enterprise Way,37.7442836,-122.194595
+463,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+464,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+465,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+466,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+467,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+468,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+469,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+470,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+471,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+472,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+473,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+474,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+475,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+476,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+477,useOfForce,2015-06-19 11:41:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+478,useOfForce,2015-06-20 6:45:00,500,"16th St, Oakland CA",Dispatched Call,"500 16th St, Oakland CA",37.8061148,-122.270506
+479,useOfForce,2015-06-20 6:45:00,500,"16th St, Oakland CA",Dispatched Call,"500 16th St, Oakland CA",37.8061148,-122.270506
+480,useOfForce,2015-06-21 23:45:00,1000,7th St,Dispatched Call,1000 7th St,37.8034926,-122.2852152
+481,useOfForce,2015-06-25 15:05:00,600,52nd St,On View,600 52nd St,37.8377824,-122.2650195
+482,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+483,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+484,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+485,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+486,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+487,useOfForce,2015-06-26 15:59:00,10300,Foothill Blvd,Dispatched Call,10300 Foothill Blvd,37.7692995,-122.1723441
+488,useOfForce,2015-06-27 13:37:00,2100,23rd Ave,On View,2100 23rd Ave,37.7886783,-122.2313827
+489,useOfForce,2015-06-27 19:40:00,1300,46th Ave,Dispatched Call,1300 46th Ave,37.7702149,-122.2124505
+490,useOfForce,2015-06-27 19:40:00,1300,46th Ave,Dispatched Call,1300 46th Ave,37.7702149,-122.2124505
+491,useOfForce,2015-06-27 19:40:00,1300,46th Ave,Dispatched Call,1300 46th Ave,37.7702149,-122.2124505
+492,useOfForce,2015-06-27 19:40:00,1300,46th Ave,Dispatched Call,1300 46th Ave,37.7702149,-122.2124505
+493,useOfForce,2015-06-28 14:58:00,800,32nd St,Dispatched Call,800 32nd St,37.8219518,-122.2731035
+494,useOfForce,2015-06-28 14:58:00,800,32nd St,Dispatched Call,800 32nd St,37.8219518,-122.2731035
+495,useOfForce,2015-07-01 0:02:00,,70th Ave & Hamilton St,Dispatched Call,70th Ave & Hamilton St,37.7584553,-122.1923884
+496,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+497,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+498,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+499,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+500,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+501,useOfForce,2015-07-01 6:58:00,2400,64th Ave,Dispatched Call,2400 64th Ave,37.7673635,-122.188738
+502,useOfForce,2015-07-01 18:40:00,10400,Bancroft Ave,"Special Project (e.g., 647b)",10400 Bancroft Ave,37.7432367,-122.1575105
+503,useOfForce,2015-07-04 19:37:00,3700,Foothill Blvd,On View,3700 Foothill Blvd,37.7798501,-122.2173664
+504,useOfForce,2015-07-05 20:35:00,8400,Edgewater,Dispatched Call,8400 Edgewater,37.7390032,-122.1989086
+505,useOfForce,2015-07-07 16:32:00,1300,62nd Ave,Dispatched Call,1300 62nd Ave,37.7625697,-122.1992425
+506,useOfForce,2015-07-07 16:32:00,1300,62nd Ave,Dispatched Call,1300 62nd Ave,37.7625697,-122.1992425
+507,useOfForce,2015-07-07 18:16:00,5000,Fairfax Ave,"Special Project (e.g., 647b)",5000 Fairfax Ave,37.7769144,-122.2015129
+508,useOfForce,2015-07-07 18:16:00,5000,Fairfax Ave,"Special Project (e.g., 647b)",5000 Fairfax Ave,37.7769144,-122.2015129
+509,useOfForce,2015-07-07 18:16:00,5000,Fairfax Ave,"Special Project (e.g., 647b)",5000 Fairfax Ave,37.7769144,-122.2015129
+510,useOfForce,2015-07-07 18:16:00,5000,Fairfax Ave,"Special Project (e.g., 647b)",5000 Fairfax Ave,37.7769144,-122.2015129
+511,useOfForce,2015-07-07 20:30:00,3600,Mandela Parkway,Dispatched Call,3600 Mandela Parkway,37.8248477,-122.2893268
+512,useOfForce,2015-07-09 12:29:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+513,useOfForce,2015-07-09 12:29:00,1900,90th Ave,On View,1900 90th Ave,37.7519497,-122.1686513
+514,useOfForce,2015-07-09 14:10:00,1300,72nd Ave,On View,1300 72nd Ave,37.7590685,-122.1880634
+515,useOfForce,2015-07-09 14:10:00,1300,72nd Ave,On View,1300 72nd Ave,37.7590685,-122.1880634
+516,useOfForce,2015-07-09 22:16:00,,88th Ave & MacArthur Blvd,Dispatched Call,88th Ave & MacArthur Blvd,37.7572561,-122.1619628
+517,useOfForce,2015-07-09 22:16:00,,88th Ave & MacArthur Blvd,Dispatched Call,88th Ave & MacArthur Blvd,37.7572561,-122.1619628
+518,useOfForce,2015-07-09 22:16:00,,88th Ave & MacArthur Blvd,Dispatched Call,88th Ave & MacArthur Blvd,37.7572561,-122.1619628
+519,useOfForce,2015-07-09 22:16:00,,88th Ave & MacArthur Blvd,Dispatched Call,88th Ave & MacArthur Blvd,37.7572561,-122.1619628
+520,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+521,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+522,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+523,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+524,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+525,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+526,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+527,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+528,useOfForce,2015-07-10 20:50:00,1900,18th Ave,Dispatched Call,1900 18th Ave,37.790433,-122.2389415
+529,useOfForce,2015-07-11 14:15:00,6800,Bancroft Ave,On View,6800 Bancroft Ave,37.7687476,-122.1796444
+530,useOfForce,2015-07-12 19:19:00,1700,64th Ave,On View,1700 64th Ave,37.76384,-122.1941688
+531,useOfForce,2015-07-12 21:55:00,1300,71st Ave,On View,1300 71st Ave,37.7595107,-122.1889725
+532,useOfForce,2015-07-13 11:48:00,2000,94th Ave,On View,2000 94th Ave,37.7501104,-122.1658098
+533,useOfForce,2015-07-14 10:31:00,1300,Tyler St,Dispatched Call,1300 Tyler St,37.7388732,-122.183191
+534,useOfForce,2015-07-14 10:31:00,1300,Tyler St,Dispatched Call,1300 Tyler St,37.7388732,-122.183191
+535,useOfForce,2015-07-14 15:25:00,600,Bellevue Ave,Dispatched Call,600 Bellevue Ave,37.8076719,-122.2589038
+536,useOfForce,2015-07-14 23:15:00,1500,25th Ave,Dispatched Call,1500 25th Ave,37.7829301,-122.2329119
+537,useOfForce,2015-07-15 14:30:00,600,34th St,Dispatched Call,600 34th St,37.8229682,-122.2682781
+538,useOfForce,2015-07-15 14:30:00,600,34th St,Dispatched Call,600 34th St,37.8229682,-122.2682781
+539,useOfForce,2015-07-15 14:30:00,600,34th St,Dispatched Call,600 34th St,37.8229682,-122.2682781
+540,useOfForce,2015-07-15 19:56:00,9700,Hilgrade Ct,"Special Project (e.g., 647b)",9700 Hilgrade Ct,37.7501715,-122.1596137
+541,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+542,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+543,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+544,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+545,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+546,useOfForce,2015-07-17 21:59:00,4900,Coliseum Way,Dispatched Call,4900 Coliseum Way,37.7569046,-122.2069617
+547,useOfForce,2015-07-17 22:20:00,6300,MacArthur Blvd,On View,6300 MacArthur Blvd,37.7746335,-122.1803034
+548,useOfForce,2015-07-17 22:20:00,6300,MacArthur Blvd,On View,6300 MacArthur Blvd,37.7746335,-122.1803034
+549,useOfForce,2015-07-17 22:20:00,6300,MacArthur Blvd,On View,6300 MacArthur Blvd,37.7746335,-122.1803034
+550,useOfForce,2015-07-17 22:20:00,6300,MacArthur Blvd,On View,6300 MacArthur Blvd,37.7746335,-122.1803034
+551,useOfForce,2015-07-19 17:43:00,1600,64th Ave,On View,1600 64th Ave,37.7633888,-122.1949028
+552,useOfForce,2015-07-20 16:44:00,2500,26th Ave,On View,2500 26th Ave,37.789941,-122.2240616
+553,useOfForce,2015-07-22 10:16:00,0,Harrison St,Citizen Flag Down,0 Harrison St,37.8159768,-122.2585102
+554,useOfForce,2015-07-23 10:45:00,700,Willow St,"Special Project (e.g., 647b)",700 Willow St,37.8069414,-122.3004874
+555,useOfForce,2015-07-24 0:20:00,,W Grand Ave & Adeline,On View,W Grand Ave & Adeline,37.8155107,-122.2839895
+556,useOfForce,2015-07-24 0:20:00,,W Grand Ave & Adeline,On View,W Grand Ave & Adeline,37.8155107,-122.2839895
+557,useOfForce,2015-07-26 2:15:00,,8th St & Washington St,Dispatched Call,8th St & Washington St,37.800687,-122.2749854
+558,useOfForce,2015-07-26 2:15:00,,8th St & Washington St,Dispatched Call,8th St & Washington St,37.800687,-122.2749854
+559,useOfForce,2015-07-27 8:37:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+560,useOfForce,2015-07-27 8:37:00,1600,83rd Ave,On View,1600 83rd Ave,37.7558646,-122.1766671
+561,useOfForce,2015-07-27 15:17:00,3500,Foothill Blvd,Dispatched Call,3500 Foothill Blvd,37.7821135,-122.2187752
+562,useOfForce,2015-07-28 11:32:00,1300,102nd Ave,Dispatched Call,1300 102nd Ave,37.7401963,-122.170058
+563,useOfForce,2015-07-29 11:05:00,7000,Greenly Dr,"Special Project (e.g., 647b)",7000 Greenly Dr,37.7745399,-122.1668053
+564,useOfForce,2015-07-29 11:05:00,7000,Greenly Dr,"Special Project (e.g., 647b)",7000 Greenly Dr,37.7745399,-122.1668053
+565,useOfForce,2015-07-30 18:17:00,4300,MacArthur Blvd,On View,4300 MacArthur Blvd,37.7872263,-122.1942803
+566,useOfForce,2015-07-30 18:17:00,4300,MacArthur Blvd,On View,4300 MacArthur Blvd,37.7872263,-122.1942803
+567,useOfForce,2015-07-30 22:25:00,8400,Holly St,On View,8400 Holly St,37.7551514,-122.1763264
+568,useOfForce,2015-07-30 22:25:00,8400,Holly St,On View,8400 Holly St,37.7551514,-122.1763264
+569,useOfForce,2015-07-31 0:38:00,1900,Rashida Muhammad St,On View,1900 Rashida Muhammad St,37.8088573,-122.2711488
+570,useOfForce,2015-07-31 0:38:00,1900,Rashida Muhammad St,On View,1900 Rashida Muhammad St,37.8088573,-122.2711488
+571,useOfForce,2015-07-31 14:49:00,400,98th Ave,Dispatched Call,400 98th Ave,37.7346817,-122.1840024
+572,useOfForce,2015-08-01 22:56:00,1400,21st Ave,On View,1400 21st Ave,37.7852088,-122.2389175
+573,useOfForce,2015-08-02 3:56:00,3200,Wyman St,On View,3200 Wyman St,37.778825,-122.1893299
+574,useOfForce,2015-08-02 3:56:00,3200,Wyman St,On View,3200 Wyman St,37.778825,-122.1893299
+575,useOfForce,2015-08-03 1:31:00,3800,Martin Luther King Jr Way,Dispatched Call,3800 Martin Luther King Jr Way,37.8272478,-122.2690626
+576,useOfForce,2015-08-03 1:31:00,3800,Martin Luther King Jr Way,Dispatched Call,3800 Martin Luther King Jr Way,37.8272478,-122.2690626
+577,useOfForce,2015-08-03 1:31:00,3800,Martin Luther King Jr Way,Dispatched Call,3800 Martin Luther King Jr Way,37.8272478,-122.2690626
+578,useOfForce,2015-08-03 1:31:00,3800,Martin Luther King Jr Way,Dispatched Call,3800 Martin Luther King Jr Way,37.8272478,-122.2690626
+579,useOfForce,2015-08-03 1:31:00,3800,Martin Luther King Jr Way,Dispatched Call,3800 Martin Luther King Jr Way,37.8272478,-122.2690626
+580,useOfForce,2015-08-03 14:50:00,1600,84th Ave,"Special Project (e.g., 647b)",1600 84th Ave,37.7550459,-122.176041
+581,useOfForce,2015-08-05 9:45:00,1400,Broadway,Dispatched Call,1400 Broadway,37.8043921,-122.2709531
+582,useOfForce,2015-08-05 9:45:00,1400,Broadway,Dispatched Call,1400 Broadway,37.8043921,-122.2709531
+583,useOfForce,2015-08-05 9:45:00,1400,Broadway,Dispatched Call,1400 Broadway,37.8043921,-122.2709531
+584,useOfForce,2015-08-05 9:45:00,1400,Broadway,Dispatched Call,1400 Broadway,37.8043921,-122.2709531
+585,useOfForce,2015-08-05 9:45:00,1400,Broadway,Dispatched Call,1400 Broadway,37.8043921,-122.2709531
+586,useOfForce,2015-08-09 13:08:00,1000,8th St,"Special Project (e.g., 647b)",1000 8th St,37.8041312,-122.284667
+587,useOfForce,2015-08-09 13:08:00,1000,8th St,"Special Project (e.g., 647b)",1000 8th St,37.8041312,-122.284667
+588,useOfForce,2015-08-09 13:08:00,1000,8th St,"Special Project (e.g., 647b)",1000 8th St,37.8041312,-122.284667
+589,useOfForce,2015-08-11 18:37:00,1900,Telegraph Ave,Dispatched Call,1900 Telegraph Ave,37.8081889,-122.2697504
+590,useOfForce,2015-08-12 13:10:00,7900,E 14th St,Dispatched Call,7900 E 14th St,37.7166239,-122.1440687
+591,useOfForce,2015-08-12 13:10:00,7900,E 14th St,Dispatched Call,7900 E 14th St,37.7166239,-122.1440687
+592,useOfForce,2015-08-12 13:10:00,7900,E 14th St,Dispatched Call,7900 E 14th St,37.7166239,-122.1440687
+593,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+594,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+595,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+596,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+597,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+598,useOfForce,2015-08-12 14:39:00,2600,Martin Luther King Jr Way,On View,2600 Martin Luther King Jr Way,37.8164069,-122.2714955
+599,useOfForce,2015-08-14 10:18:00,1900,82nd Ave,"Special Project (e.g., 647b)",1900 82nd Ave,37.7582171,-122.1737428
+600,useOfForce,2015-08-14 10:18:00,1900,82nd Ave,"Special Project (e.g., 647b)",1900 82nd Ave,37.7582171,-122.1737428
+601,useOfForce,2015-08-18 16:52:00,7500,Ney Ave,Dispatched Call,7500 Ney Ave,37.7691999,-122.1698614
+602,useOfForce,2015-08-19 1:20:00,,Montana & MacArthur Blvd,On View,Montana & MacArthur Blvd,37.800018,-122.2199641
+603,useOfForce,2015-08-19 1:20:00,,Montana & MacArthur Blvd,On View,Montana & MacArthur Blvd,37.800018,-122.2199641
+604,useOfForce,2015-08-19 1:20:00,,Montana & MacArthur Blvd,On View,Montana & MacArthur Blvd,37.800018,-122.2199641
+605,useOfForce,2015-08-19 1:20:00,,Montana & MacArthur Blvd,On View,Montana & MacArthur Blvd,37.800018,-122.2199641
+606,useOfForce,2015-08-19 1:20:00,,Montana & MacArthur Blvd,On View,Montana & MacArthur Blvd,37.800018,-122.2199641
+607,useOfForce,2015-08-19 7:00:00,900,170th Ave,Dispatched Call,900 170th Ave,37.6892402,-122.1095675
+608,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+609,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+610,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+611,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+612,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+613,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+614,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+615,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+616,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+617,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+618,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+619,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+620,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+621,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+622,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+623,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+624,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+625,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+626,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+627,useOfForce,2015-08-19 14:24:00,7600,MacArthur Blvd,On View,7600 MacArthur Blvd,37.767562,-122.169428
+628,useOfForce,2015-08-19 17:35:00,,W MacArthur Blvd & Apgar St,Dispatched Call,W MacArthur Blvd & Apgar St,37.8286165,-122.2781569
+629,useOfForce,2015-08-19 17:35:00,,W MacArthur Blvd & Apgar St,Dispatched Call,W MacArthur Blvd & Apgar St,37.8286165,-122.2781569
+630,useOfForce,2015-08-19 17:35:00,,W MacArthur Blvd & Apgar St,Dispatched Call,W MacArthur Blvd & Apgar St,37.8286165,-122.2781569
+631,useOfForce,2015-08-19 17:35:00,,W MacArthur Blvd & Apgar St,Dispatched Call,W MacArthur Blvd & Apgar St,37.8286165,-122.2781569
+632,useOfForce,2015-08-21 8:45:00,2100,E 28th St,On View,2100 E 28th St,37.7954716,-122.2290935
+633,useOfForce,2015-08-21 8:45:00,2100,E 28th St,On View,2100 E 28th St,37.7954716,-122.2290935
+634,useOfForce,2015-08-22 0:15:00,5900,Hilton St,Dispatched Call,5900 Hilton St,37.7695454,-122.1932037
+635,useOfForce,2015-08-22 0:15:00,5900,Hilton St,Dispatched Call,5900 Hilton St,37.7695454,-122.1932037
+636,useOfForce,2015-08-23 19:22:00,,Mead Ave & San Pablo Ave,Dispatched Call,Mead Ave & San Pablo Ave,37.8164708,-122.2751202
+637,useOfForce,2015-08-23 19:22:00,,Mead Ave & San Pablo Ave,Dispatched Call,Mead Ave & San Pablo Ave,37.8164708,-122.2751202
+638,useOfForce,2015-08-26 15:54:00,2300,San Pablo Ave,Citizen Flag Down,2300 San Pablo Ave,37.8138792,-122.2742779
+639,useOfForce,2015-08-27 8:36:00,200,MacArthur Blvd,Dispatched Call,200 MacArthur Blvd,37.8167783,-122.2526134
+640,useOfForce,2015-08-27 17:36:00,1300,"92nd Ave, Oakland CA 94603",On View,"1300 92nd Ave, Oakland CA 94603",37.7476915,-122.1754003
+641,useOfForce,2015-08-27 17:36:00,1300,"92nd Ave, Oakland CA 94603",On View,"1300 92nd Ave, Oakland CA 94603",37.7476915,-122.1754003
+642,useOfForce,2015-08-27 23:59:00,1400,85th Ave,Dispatched Call,1400 85th Ave,37.7536767,-122.1772995
+643,useOfForce,2015-08-28 14:05:00,1600,E 20th St,On View,1600 E 20th St,37.7921619,-122.2400852
+644,useOfForce,2015-08-28 14:05:00,1600,E 20th St,On View,1600 E 20th St,37.7921619,-122.2400852
+645,useOfForce,2015-08-28 19:27:00,6600,"Leona Creek Way, Oakland CA 94621","Special Project (e.g., 647b)","6600 Leona Creek Way, Oakland CA 94621",37.7574819,-122.1998422
+646,useOfForce,2015-08-29 0:38:00,600,15th St,Dispatched Call,600 15th St,37.8068686,-122.2749007
+647,useOfForce,2015-08-29 20:28:00,10900,Meyer St,"Special Project (e.g., 647b)",10900 Meyer St,37.8043514,-122.2711639
+648,useOfForce,2015-08-29 20:28:00,10900,Meyer St,"Special Project (e.g., 647b)",10900 Meyer St,37.8043514,-122.2711639
+649,useOfForce,2015-08-30 17:01:00,8000,Plymouth St,On View,8000 Plymouth St,37.7589817,-122.1768581
+650,useOfForce,2015-08-30 17:01:00,8000,Plymouth St,On View,8000 Plymouth St,37.7589817,-122.1768581
+651,useOfForce,2015-08-31 14:30:00,3600,E 12th St,Dispatched Call,3600 E 12th St,37.7747956,-122.2220055
+652,useOfForce,2015-09-01 0:50:00,900,Pine St,On View,900 Pine St,37.8102453,-122.3020695
+653,useOfForce,2015-09-01 0:50:00,900,Pine St,On View,900 Pine St,37.8102453,-122.3020695
+654,useOfForce,2015-09-01 4:50:00,100,23rd St,Dispatched Call,100 23rd St,37.8117219,-122.2629751
+655,useOfForce,2015-09-02 16:43:00,900,87th Ave,Dispatched Call,900 87th Ave,37.7479926,-122.1845459
+656,useOfForce,2015-09-02 16:43:00,900,87th Ave,Dispatched Call,900 87th Ave,37.7479926,-122.1845459
+657,useOfForce,2015-09-03 19:05:00,1300,Alcatraz St,"Special Project (e.g., 647b)",1300 Alcatraz St,37.8472609,-122.2811395
+658,useOfForce,2015-09-03 19:05:00,1300,Alcatraz St,"Special Project (e.g., 647b)",1300 Alcatraz St,37.8472609,-122.2811395
+659,useOfForce,2015-09-03 19:05:00,900,63rd St,"Special Project (e.g., 647b)",900 63rd St,37.847164,-122.2765432
+660,useOfForce,2015-09-05 18:05:00,800,Milton St,Dispatched Call,800 Milton St,37.8172041,-122.2755124
+661,useOfForce,2015-09-05 18:05:00,800,Milton St,Dispatched Call,800 Milton St,37.8172041,-122.2755124
+662,useOfForce,2015-09-05 19:41:00,,College Ave & Miles Ave,Dispatched Call,College Ave & Miles Ave,37.8451069,-122.2518575
+663,useOfForce,2015-09-06 19:00:00,1600,101st Ave,Dispatched Call,1600 101st Ave,37.7427067,-122.1666557
+664,useOfForce,2015-09-07 12:14:00,1700,"14th St, Oakland CA 94607",Dispatched Call,"1700 14th St, Oakland CA 94607",37.8126657,-122.2965124
+665,useOfForce,2015-09-07 22:22:00,2700,Valdez St,Dispatched Call,2700 Valdez St,37.8144672,-122.263208
+666,useOfForce,2015-09-08 17:26:00,9600,Edes Ave,"Special Project (e.g., 647b)",9600 Edes Ave,37.7372495,-122.1852013
+667,useOfForce,2015-09-08 17:26:00,9600,Edes Ave,"Special Project (e.g., 647b)",9600 Edes Ave,37.7372495,-122.1852013
+668,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+669,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+670,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+671,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+672,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+673,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+674,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+675,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+676,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+677,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+678,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+679,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+680,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+681,useOfForce,2015-09-08 19:30:00,,I 580 & Park Blvd,On View,I 580 & Park Blvd,37.8059179,-122.2256566
+682,useOfForce,2015-09-09 0:45:00,1800,"Prince St, Berkeley CA","Special Project (e.g., 647b)","1800 Prince St, Berkeley CA",37.8520693,-122.2728062
+683,useOfForce,2015-09-09 15:49:00,1400,86th Ave,"Special Project (e.g., 647b)",1400 86th Ave,37.752906,-122.176727
+684,useOfForce,2015-09-09 15:49:00,1400,86th Ave,"Special Project (e.g., 647b)",1400 86th Ave,37.752906,-122.176727
+685,useOfForce,2015-09-09 17:47:00,8900,Plymouth St,"Drug Related (e.g., Surveillance)",8900 Plymouth St,37.7518985,-122.1715744
+686,useOfForce,2015-09-13 14:57:00,1100,75th Ave,On View,1100 75th Ave,37.7558515,-122.1897213
+687,useOfForce,2015-09-13 16:00:00,7000,COLISEUM WAY,"Special Project (e.g., 647b)",7000 COLISEUM WAY,37.751657,-122.2006072
+688,useOfForce,2015-09-13 16:00:00,7000,COLISEUM WAY,"Special Project (e.g., 647b)",7000 COLISEUM WAY,37.751657,-122.2006072
+689,useOfForce,2015-09-14 0:54:00,1300,50th Ave,Dispatched Call,1300 50th Ave,37.7684516,-122.2094973
+690,useOfForce,2015-09-14 2:21:00,800,Alice St,Dispatched Call,800 Alice St,37.7983339,-122.2690159
+691,useOfForce,2015-09-15 7:21:00,500,Independedt Rd,On View,500 Independedt Rd,37.7554586,-122.208155
+692,useOfForce,2015-09-15 7:21:00,500,Independedt Rd,On View,500 Independedt Rd,37.7554586,-122.208155
+693,useOfForce,2015-09-17 7:53:00,600,Hegenberger Rd,Dispatched Call,600 Hegenberger Rd,37.745705,-122.1956898
+694,useOfForce,2015-09-17 7:53:00,600,Hegenberger Rd,Dispatched Call,600 Hegenberger Rd,37.745705,-122.1956898
+695,useOfForce,2015-09-17 7:53:00,600,Hegenberger Rd,Dispatched Call,600 Hegenberger Rd,37.745705,-122.1956898
+696,useOfForce,2015-09-17 7:53:00,600,Hegenberger Rd,Dispatched Call,600 Hegenberger Rd,37.745705,-122.1956898
+697,useOfForce,2015-09-17 7:53:00,600,Hegenberger Rd,Dispatched Call,600 Hegenberger Rd,37.745705,-122.1956898
+698,useOfForce,2015-09-17 16:42:00,8300,Holly St,On View,8300 Holly St,37.7559256,-122.1768999
+699,useOfForce,2015-09-18 9:05:00,900,Peralta St,"Special Project (e.g., 647b)",900 Peralta St,37.8080679,-122.2965734
+700,useOfForce,2015-09-18 10:40:00,900,Pine St,"Special Project (e.g., 647b)",900 Pine St,37.8102453,-122.3020695
+701,useOfForce,2015-09-19 21:24:00,500,55th St,Dispatched Call,500 55th St,37.8402177,-122.261956
+702,useOfForce,2015-09-20 16:54:00,2400,Coolidge Ave,Dispatched Call,2400 Coolidge Ave,37.7856827,-122.2194388
+703,useOfForce,2015-09-23 21:04:00,6800,Foothill Blvd,Dispatched Call,6800 Foothill Blvd,37.7701956,-122.1786371
+704,useOfForce,2015-09-24 7:03:00,600,Lancaster St,Dispatched Call,600 Lancaster St,37.7720207,-122.2297822
+705,useOfForce,2015-09-25 13:40:00,1700,90th Ave,On View,1700 90th Ave,37.7511687,-122.1709891
+706,useOfForce,2015-09-25 13:40:00,1700,90th Ave,On View,1700 90th Ave,37.7511687,-122.1709891
+707,useOfForce,2015-09-26 21:35:00,1300,75th Ave,Citizen Flag Down,1300 75th Ave,37.7579297,-122.1860791
+708,useOfForce,2015-09-28 2:19:00,800,Myrtle St,Dispatched Call,800 Myrtle St,37.8045573,-122.2832701
+709,useOfForce,2015-09-28 2:19:00,800,Myrtle St,Dispatched Call,800 Myrtle St,37.8045573,-122.2832701
+710,useOfForce,2015-09-28 2:19:00,800,Myrtle St,Dispatched Call,800 Myrtle St,37.8045573,-122.2832701
+711,useOfForce,2015-10-01 11:21:00,1300,83rd Ave,Dispatched Call,1300 83rd Ave,37.7540157,-122.1800401
+712,useOfForce,2015-10-01 23:16:00,1000,8th St,On View,1000 8th St,37.8041312,-122.284667
+713,useOfForce,2015-10-03 21:00:00,7200,72nd Ave,On View,7200 72nd Ave,37.7615758,-122.1853572
+714,useOfForce,2015-10-04 14:20:00,,98th Ave & Edes Ave,Dispatched Call,98th Ave & Edes Ave,37.7364473,-122.1833183
+715,useOfForce,2015-10-08 11:01:00,,71st Ave & Orral St,Dispatched Call,71st Ave & Orral St,37.7621751,-122.1859644
+716,useOfForce,2015-10-08 11:01:00,,71st Ave & Orral St,Dispatched Call,71st Ave & Orral St,37.7621751,-122.1859644
+717,useOfForce,2015-10-08 11:01:00,,71st Ave & Orral St,Dispatched Call,71st Ave & Orral St,37.7621751,-122.1859644
+718,useOfForce,2015-10-14 2:37:00,2400,35th Ave,Dispatched Call,2400 35th Ave,37.7863309,-122.2128945
+719,useOfForce,2015-10-14 2:37:00,2400,35th Ave,Dispatched Call,2400 35th Ave,37.7863309,-122.2128945
+720,useOfForce,2015-10-14 18:25:00,4800,Dunkirk Ave,Dispatched Call,4800 Dunkirk Ave,37.7533811,-122.1240364
+721,useOfForce,2015-10-17 16:53:00,3100,35th Ave,Dispatched Call,3100 35th Ave,37.7905879,-122.2056211
+722,useOfForce,2015-10-17 16:53:00,3100,35th Ave,Dispatched Call,3100 35th Ave,37.7905879,-122.2056211
+723,useOfForce,2015-10-17 16:53:00,3100,35th Ave,Dispatched Call,3100 35th Ave,37.7905879,-122.2056211
+724,useOfForce,2015-10-17 16:53:00,3100,35th Ave,Dispatched Call,3100 35th Ave,37.7905879,-122.2056211
+725,useOfForce,2015-10-19 1:53:00,300,Hanover Ave,Dispatched Call,300 Hanover Ave,37.8026968,-122.2521101
+726,useOfForce,2015-10-19 1:53:00,300,Hanover Ave,Dispatched Call,300 Hanover Ave,37.8026968,-122.2521101
+727,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+728,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+729,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+730,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+731,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+732,useOfForce,2015-10-20 14:43:00,2300,Myrtle St,On View,2300 Myrtle St,37.8154999,-122.2794343
+733,useOfForce,2015-10-22 5:45:00,700,Frontage Rd,Dispatched Call,700 Frontage Rd,37.8084065,-122.3041123
+734,useOfForce,2015-10-22 17:27:00,2400,E 23rd St,On View,2400 E 23rd St,37.7891763,-122.228079
+735,useOfForce,2015-10-24 0:32:00,500,40th St,Dispatched Call,500 40th St,37.829525,-122.2648377
+736,useOfForce,2015-10-24 7:45:00,8200,San Leandro St,"Special Project (e.g., 647b)",8200 San Leandro St,37.7490009,-122.19071
+737,useOfForce,2015-10-24 13:42:00,,38th Ave & Angelo Ave,Dispatched Call,38th Ave & Angelo Ave,37.7876894,-122.2030011
+738,useOfForce,2015-10-26 2:37:00,9400,Oscar Ave,Dispatched Call,9400 Oscar Ave,37.7387687,-122.1863419
+739,useOfForce,2015-10-26 2:37:00,9400,Oscar Ave,Dispatched Call,9400 Oscar Ave,37.7387687,-122.1863419
+740,useOfForce,2015-10-28 13:18:00,2700,Foothill Blvd,On View,2700 Foothill Blvd,37.7845195,-122.2279187
+741,useOfForce,2015-10-28 19:04:00,8000,B St,Dispatched Call,8000 B St,37.7553458,-122.1837725
+742,useOfForce,2015-10-28 19:04:00,8000,B St,Dispatched Call,8000 B St,37.7553458,-122.1837725
+743,useOfForce,2015-10-28 19:04:00,8000,B St,Dispatched Call,8000 B St,37.7553458,-122.1837725
+744,useOfForce,2015-10-29 13:55:00,2600,77th Ave,On View,2600 77th Ave,37.7646858,-122.1733372
+745,useOfForce,2015-10-29 13:55:00,2600,77th Ave,On View,2600 77th Ave,37.7646858,-122.1733372
+746,useOfForce,2015-10-29 13:55:00,2600,77th Ave,On View,2600 77th Ave,37.7646858,-122.1733372
+747,useOfForce,2015-10-29 13:55:00,2600,77th Ave,On View,2600 77th Ave,37.7646858,-122.1733372
+748,useOfForce,2015-10-29 15:50:00,3400,West St,"Special Project (e.g., 647b)",3400 West St,37.8239993,-122.2725585
+749,useOfForce,2015-10-30 18:06:00,1000,7th St,"Special Project (e.g., 647b)",1000 7th St,37.8034926,-122.2852152
+750,useOfForce,2015-10-30 21:42:00,,35th Ave & Harper St,On View,35th Ave & Harper St,37.7837131,-122.2175225
+751,useOfForce,2015-10-30 21:42:00,,35th Ave & Harper St,On View,35th Ave & Harper St,37.7837131,-122.2175225
+752,useOfForce,2015-11-02 17:45:00,2300,Maywood Ave,On View,2300 Maywood Ave,37.7627452,-122.1779513
+753,useOfForce,2015-11-05 12:23:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+754,useOfForce,2015-11-05 12:23:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+755,useOfForce,2015-11-05 12:23:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+756,useOfForce,2015-11-05 12:23:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+757,useOfForce,2015-11-05 12:23:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+758,useOfForce,2015-11-05 19:29:00,7400,Weld St,Dispatched Call,7400 Weld St,37.7619946,-122.1809687
+759,useOfForce,2015-11-05 19:29:00,7400,Weld St,Dispatched Call,7400 Weld St,37.7619946,-122.1809687
+760,useOfForce,2015-11-10 14:15:00,1700,"Springtown Blvd, Livermore CA","Special Project (e.g., 647b)","1700 Springtown Blvd, Livermore CA",37.7102572,-121.7480313
+761,useOfForce,2015-11-10 14:15:00,1700,"Springtown Blvd, Livermore CA","Special Project (e.g., 647b)","1700 Springtown Blvd, Livermore CA",37.7102572,-121.7480313
+762,useOfForce,2015-11-11 14:19:00,1600,46th Ave,On View,1600 46th Ave,37.7718537,-122.2107091
+763,useOfForce,2015-11-11 14:19:00,1600,46th Ave,On View,1600 46th Ave,37.7718537,-122.2107091
+764,useOfForce,2015-11-12 12:25:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+765,useOfForce,2015-11-12 12:25:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+766,useOfForce,2015-11-12 12:25:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+767,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+768,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+769,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+770,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+771,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+772,useOfForce,2015-11-12 17:27:00,,12th St & Pine St,"Special Project (e.g., 647b)",12th St & Pine St,37.8124796,-122.3001481
+773,useOfForce,2015-11-13 0:52:00,400,Hegenberger Rd,On View,400 Hegenberger Rd,37.7344015,-122.1976291
+774,useOfForce,2015-11-13 10:30:00,1800,E 25th St,Dispatched Call,1800 E 25th St,37.795045,-122.2342559
+775,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+776,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+777,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+778,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+779,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+780,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+781,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+782,useOfForce,2015-11-15 17:34:00,2200,90th Ave,"Special Project (e.g., 647b)",2200 90th Ave,37.753478,-122.165237
+783,useOfForce,2015-11-17 0:23:00,2400,International Blvd,Dispatched Call,2400 International Blvd,37.7825863,-122.2340148
+784,useOfForce,2015-11-17 0:23:00,2400,International Blvd,Dispatched Call,2400 International Blvd,37.7825863,-122.2340148
+785,useOfForce,2015-11-17 0:23:00,2400,International Blvd,Dispatched Call,2400 International Blvd,37.7825863,-122.2340148
+786,useOfForce,2015-11-17 0:23:00,2400,International Blvd,Dispatched Call,2400 International Blvd,37.7825863,-122.2340148
+787,useOfForce,2015-11-17 15:15:00,,73rd Ave & International Blvd,On View,73rd Ave & International Blvd,37.759189,-122.1868916
+788,useOfForce,2015-11-17 21:41:00,800,Adeline St,Dispatched Call,800 Adeline St,37.8048507,-122.2878486
+789,useOfForce,2015-11-17 21:41:00,800,Adeline St,Dispatched Call,800 Adeline St,37.8048507,-122.2878486
+790,useOfForce,2015-11-17 21:41:00,800,Adeline St,Dispatched Call,800 Adeline St,37.8048507,-122.2878486
+791,useOfForce,2015-11-18 21:35:00,4200,MacArthur Ave,On View,4200 MacArthur Ave,37.7884301,-122.1954016
+792,useOfForce,2015-11-18 21:35:00,4200,MacArthur Ave,On View,4200 MacArthur Ave,37.7884301,-122.1954016
+793,useOfForce,2015-11-18 21:35:00,4200,MacArthur Ave,On View,4200 MacArthur Ave,37.7884301,-122.1954016
+794,useOfForce,2015-11-19 7:42:00,1300,69th Ave,Dispatched Call,1300 69th Ave,37.7604147,-122.1906908
+795,useOfForce,2015-11-19 7:42:00,1300,69th Ave,Dispatched Call,1300 69th Ave,37.7604147,-122.1906908
+796,useOfForce,2015-11-19 8:41:00,6300,International Blvd,On View,6300 International Blvd,37.7637821,-122.1961883
+797,useOfForce,2015-11-19 8:41:00,6300,International Blvd,On View,6300 International Blvd,37.7637821,-122.1961883
+798,useOfForce,2015-11-19 8:41:00,6300,International Blvd,On View,6300 International Blvd,37.7637821,-122.1961883
+799,useOfForce,2015-11-19 8:41:00,6300,International Blvd,On View,6300 International Blvd,37.7637821,-122.1961883
+800,useOfForce,2015-11-19 8:41:00,6300,International Blvd,On View,6300 International Blvd,37.7637821,-122.1961883
+801,useOfForce,2015-11-19 14:35:00,8400,Edes Ave,Dispatched Call,8400 Edes Ave,37.7419081,-122.1948696
+802,useOfForce,2015-11-19 14:35:00,8400,Edes Ave,Dispatched Call,8400 Edes Ave,37.7419081,-122.1948696
+803,useOfForce,2015-11-19 14:35:00,8400,Edes Ave,Dispatched Call,8400 Edes Ave,37.7419081,-122.1948696
+804,useOfForce,2015-11-19 14:35:00,8400,Edes Ave,Dispatched Call,8400 Edes Ave,37.7419081,-122.1948696
+805,useOfForce,2015-11-19 14:35:00,8400,Edes Ave,Dispatched Call,8400 Edes Ave,37.7419081,-122.1948696
+806,useOfForce,2015-11-20 10:41:00,2000,Poplar St,On View,2000 Poplar St,37.8144458,-122.287259
+807,useOfForce,2015-11-20 10:41:00,2000,Poplar St,On View,2000 Poplar St,37.8144458,-122.287259
+808,useOfForce,2015-11-20 10:41:00,2000,Poplar St,On View,2000 Poplar St,37.8144458,-122.287259
+809,useOfForce,2015-11-20 10:41:00,2000,Poplar St,On View,2000 Poplar St,37.8144458,-122.287259
+810,useOfForce,2015-11-20 20:08:00,3300,Elmwood Ave,Dispatched Call,3300 Elmwood Ave,37.7723817,-122.2272982
+811,useOfForce,2015-11-20 22:39:00,1100,100th Ave,On View,1100 100th Ave,37.7399562,-122.1740557
+812,useOfForce,2015-11-20 22:39:00,1100,100th Ave,On View,1100 100th Ave,37.7399562,-122.1740557
+813,useOfForce,2015-11-20 22:39:00,1100,100th Ave,On View,1100 100th Ave,37.7399562,-122.1740557
+814,useOfForce,2015-11-20 22:39:00,1100,100th Ave,On View,1100 100th Ave,37.7399562,-122.1740557
+815,useOfForce,2015-11-24 10:06:00,,Avenal & Bancroft Ave,On View,Avenal & Bancroft Ave,37.7711339,-122.1933374
+816,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+817,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+818,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+819,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+820,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+821,useOfForce,2015-11-25 10:58:00,1300,5th St,Dispatched Call,1300 5th St,37.8036513,-122.2921376
+822,useOfForce,2015-11-25 11:36:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+823,useOfForce,2015-11-25 11:36:00,9700,B St,On View,9700 B St,37.7434846,-122.1744229
+824,useOfForce,2015-11-25 12:30:00,,South Bound I-880 North & Davis St,Dispatched Call,South Bound I-880 North & Davis St,37.7438181,-122.1990891
+825,useOfForce,2015-11-25 22:18:00,8900,Bancroft Ave,On View,8900 Bancroft Ave,37.7543969,-122.166157
+826,useOfForce,2015-11-25 22:18:00,8900,Bancroft Ave,On View,8900 Bancroft Ave,37.7543969,-122.166157
+827,useOfForce,2015-11-25 22:18:00,8900,Bancroft Ave,On View,8900 Bancroft Ave,37.7543969,-122.166157
+828,useOfForce,2015-11-26 11:31:00,4100,Foothill Blvd,On View,4100 Foothill Blvd,37.7765695,-122.2133409
+829,useOfForce,2015-12-01 15:02:00,2600,Inyo Ave,On View,2600 Inyo Ave,37.7919941,-122.2271292
+830,useOfForce,2015-12-01 15:02:00,2600,Inyo Ave,On View,2600 Inyo Ave,37.7919941,-122.2271292
+831,useOfForce,2015-12-03 9:29:00,7100,Bancroft Ave,On View,7100 Bancroft Ave,37.7669075,-122.1781169
+832,useOfForce,2015-12-03 9:29:00,7100,Bancroft Ave,On View,7100 Bancroft Ave,37.7669075,-122.1781169
+833,useOfForce,2015-12-03 9:29:00,7100,Bancroft Ave,On View,7100 Bancroft Ave,37.7669075,-122.1781169
+834,useOfForce,2015-12-03 18:00:00,1300,Stoneridge Mall Rd,On View,1300 Stoneridge Mall Rd,37.6948228,-121.9297115
+835,useOfForce,2015-12-03 21:21:00,1600,90th Ave,On View,1600 90th Ave,37.7504396,-122.171841
+836,useOfForce,2015-12-06 22:04:00,1300,Peralta St,Dispatched Call,1300 Peralta St,37.8107406,-122.2941747
+837,useOfForce,2015-12-06 22:04:00,1300,Peralta St,Dispatched Call,1300 Peralta St,37.8107406,-122.2941747
+838,useOfForce,2015-12-09 6:01:00,2100,Fruitvale Ave,"Special Project (e.g., 647b)",2100 Fruitvale Ave,37.7843573,-122.2221679
+839,useOfForce,2015-12-09 9:34:00,1200,62nd Ave,Dispatched Call,1200 62nd Ave,37.761231,-122.2007886
+840,useOfForce,2015-12-09 9:34:00,1200,62nd Ave,Dispatched Call,1200 62nd Ave,37.761231,-122.2007886
+841,useOfForce,2015-12-09 13:34:00,2600,73RD AVE,On View,2600 73RD AVE,37.7667437,-122.1753256
+842,useOfForce,2015-12-09 13:34:00,2600,73RD AVE,On View,2600 73RD AVE,37.7667437,-122.1753256
+843,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+844,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+845,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+846,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+847,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+848,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+849,useOfForce,2015-12-09 21:43:00,2900,E 23rd St,Dispatched Call,2900 E 23rd St,37.786166,-122.2229645
+850,useOfForce,2015-12-10 10:50:00,3400,Wood St,On View,3400 Wood St,37.8245487,-122.2907078
+851,useOfForce,2015-12-10 10:50:00,3400,Wood St,On View,3400 Wood St,37.8245487,-122.2907078
+852,useOfForce,2015-12-10 23:50:00,1100,10th St,On View,1100 10th St,37.8054105,-122.2815057
+853,useOfForce,2015-12-14 11:05:00,,84th Ave & Dowling St,Dispatched Call,84th Ave & Dowling St,37.7592621,-122.1675478
+854,useOfForce,2015-12-17 11:36:00,1700,82nd Ave,Dispatched Call,1700 82nd Ave,37.757502,-122.1757216
+855,useOfForce,2015-12-17 11:36:00,1700,82nd Ave,Dispatched Call,1700 82nd Ave,37.757502,-122.1757216
+856,useOfForce,2015-12-17 11:36:00,1700,82nd Ave,Dispatched Call,1700 82nd Ave,37.757502,-122.1757216
+857,useOfForce,2015-12-17 11:36:00,1700,82nd Ave,Dispatched Call,1700 82nd Ave,37.757502,-122.1757216
+858,useOfForce,2015-12-17 18:32:00,3100,"64th Ave, Oakland CA",On View,"3100 64th Ave, Oakland CA",37.7724247,-122.18201
+859,useOfForce,2015-12-17 18:32:00,3100,"64th Ave, Oakland CA",On View,"3100 64th Ave, Oakland CA",37.7724247,-122.18201
+860,useOfForce,2015-12-18 15:32:00,1800,106th Ave,Dispatched Call,1800 106th Ave,37.7398981,-122.1620095
+861,useOfForce,2015-12-18 15:32:00,1800,106th Ave,Dispatched Call,1800 106th Ave,37.7398981,-122.1620095
+862,useOfForce,2015-12-19 22:45:00,2700,West St,On View,2700 West St,37.817641,-122.273785
+863,useOfForce,2015-12-19 22:45:00,2700,West St,On View,2700 West St,37.817641,-122.273785
+864,useOfForce,2015-12-21 16:31:00,,106th Ave & Graffian St,On View,106th Ave & Graffian St,37.7376448,-122.1683837
+865,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+866,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+867,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+868,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+869,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+870,useOfForce,2015-12-22 8:58:00,2100,E 28th St,Dispatched Call,2100 E 28th St,37.7954716,-122.2290935
+871,useOfForce,2015-12-22 11:26:00,900,66th Ave,Dispatched Call,900 66th Ave,37.7568289,-122.2007531
+872,useOfForce,2015-12-22 11:26:00,900,66th Ave,Dispatched Call,900 66th Ave,37.7568289,-122.2007531
+873,useOfForce,2015-12-22 11:26:00,900,66th Ave,Dispatched Call,900 66th Ave,37.7568289,-122.2007531
+874,useOfForce,2015-12-24 11:32:00,9300,B St,On View,9300 B St,37.7463491,-122.1765487
+875,useOfForce,2015-12-24 11:32:00,9300,B St,On View,9300 B St,37.7463491,-122.1765487
+876,useOfForce,2015-12-24 11:32:00,9300,B St,On View,9300 B St,37.7463491,-122.1765487
+877,useOfForce,2015-12-25 2:32:00,2600,"Market St, Oakland CA 94607",Dispatched Call,"2600 Market St, Oakland CA 94607",37.8175423,-122.2775608
+878,useOfForce,2015-12-25 19:07:00,600,"29th St, Oakland CA 94607","Special Project (e.g., 647b)","600 29th St, Oakland CA 94607",37.8188984,-122.2693061
+879,useOfForce,2015-12-29 15:24:00,1200,102nd Ave,On View,1200 102nd Ave,37.7393564,-122.1721901
+880,useOfForce,2015-12-29 15:34:00,2300,Martin Luther King Jr Way,On View,2300 Martin Luther King Jr Way,37.8135781,-122.2725006
+881,useOfForce,2015-12-31 15:30:00,9700,A St,Citizen Flag Down,9700 A St,37.7442692,-122.1727494
+882,useOfForce,2015-12-31 15:30:00,9700,A St,Citizen Flag Down,9700 A St,37.7442692,-122.1727494
